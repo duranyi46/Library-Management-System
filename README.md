@@ -9,4 +9,4 @@ Kitap sayisinin fazla olmasi list book methodunu anlamsizlastirdi dolayisiyla al
 Ayrica recommend me bolumunden bazi parametreler belirleyerek programin kitaplik dahilinde size rastgele oneriler vermesini saglayabilirsiniz.
 Son olarak kitapligin ve icerdigi datanin bazi ozelliklerini gorebileceginiz ve referans olarak verdiginiz yazarin mevcut kitaplarini veri icinde bulunan average rating'e gore gosteren bir grafik cizdirebilirsiniz.
 
-txt ve csv belgelerini acmak projeyi yaparken basarili oldu fakat github'i ilk defa kullaniyorum. push ederken farkli bir klasore aldim suan kodu calistirdigimda belgeleri okuyamiyor. Sorunu cozebilirsem burayi silecegim. 
+ 
