@@ -1,5 +1,6 @@
 import pandas as pd
-# If you get an error for opening booksdb.csv, get the location of the file below here.
+
+# If you get an error for opening booksdb.csv, paste the location of the file below here.
 df = pd.read_csv("booksdb.csv", nrows=2000)
 #
 df.rename(columns={"  num_pages": "book_number_of_pages"}, inplace=True)
@@ -112,20 +113,23 @@ while True:
         lib.remove_book()
     elif choice_move == '5':
         print(" *** RECOMMEND MENU ***")
-        print('1) Based on rating')
+        print('1) Based on rating(0-5, you can enter a float)')
         print('2) Based on author')
         print('3) Based on release year')
         
         beta_choice = input("Select an option :")
         if beta_choice == '1':
-            min_rating = float(input('What would be the minimum rating of your book?'))
-            max_rating = float(input('What would be the maximum rating of your book?'))
+            min_rating = float(input('What would be the minimum rating of your book?(0-5, you can enter a float)'))
+            max_rating = float(input('What would be the maximum rating of your book?(0-5, you can enter a float)'))
             conditioned_df = df_books[(df_books['book_average_rating'] <= max_rating) & (df_books['book_average_rating'] >= min_rating)]
-            if conditioned_df.empty == False:
-                sample_row = conditioned_df.sample(3, replace=False)
-                print(sample_row)
+            if max_rating >= min_rating:
+                if conditioned_df.empty == False:
+                    sample_row = conditioned_df.sample(3, replace=False)
+                    print(sample_row)
+                else:
+                    print('Library does not have a book which has rating in that interval.')
             else:
-                print('Library does not have a book which has rating in that inretval.')
+                print('Maximum rating must be greater or equal to minimum rating.')
         elif beta_choice == '2':
             author_name = input('Author: ')    
             conditioned_df = df_books[df_books['book_author'] == author_name]

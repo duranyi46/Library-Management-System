@@ -9,4 +9,3 @@ Kitap sayisinin fazla olmasi list book methodunu anlamsizlastirdi dolayisiyla al
 Ayrica recommend me bolumunden bazi parametreler belirleyerek programin kitaplik dahilinde size rastgele oneriler vermesini saglayabilirsiniz.
 Son olarak kitapligin ve icerdigi datanin bazi ozelliklerini gorebileceginiz ve referans olarak verdiginiz yazarin mevcut kitaplarini veri icinde bulunan average rating'e gore gosteren bir grafik cizdirebilirsiniz.
 
- 
