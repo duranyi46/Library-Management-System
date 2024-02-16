@@ -1,0 +1,2001 @@
+book_name,book_author,book_release_date,book_number_of_pages
+Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling/Mary GrandPré,9/16/2006,652
+Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling/Mary GrandPré,9/1/2004,870
+Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,11/1/2003,352
+Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling/Mary GrandPré,5/1/2004,435
+Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5),J.K. Rowling/Mary GrandPré,9/13/2004,2690
+"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,4/26/2005,152
+Harry Potter Collection (Harry Potter  #1-6),J.K. Rowling,9/12/2005,3342
+The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,11/1/2005,815
+The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4/30/2002,815
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams,8/3/2004,215
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams/Stephen Fry,3/23/2005,6
+The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,1/17/1996,815
+A Short History of Nearly Everything,Bill Bryson,9/14/2004,544
+Bill Bryson's African Diary,Bill Bryson,12/3/2002,55
+Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,9/14/2004,256
+In a Sunburned Country,Bill Bryson,5/15/2001,335
+I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,6/28/2000,304
+The Lost Continent: Travels in Small Town America,Bill Bryson,8/28/1990,299
+Neither Here nor There: Travels in Europe,Bill Bryson,3/28/1993,254
+Notes from a Small Island,Bill Bryson,5/28/1997,324
+The Mother Tongue: English and How It Got That Way,Bill Bryson,9/28/1991,270
+J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,9/25/2012,1728
+The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien,10/21/2004,1184
+The Fellowship of the Ring (The Lord of the Rings  #1),J.R.R. Tolkien,9/5/2003,398
+The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien/Alan  Lee,10/1/2002,1216
+The Lord of the Rings: Weapons and Warfare,Chris   Smith/Christopher  Lee/Richard Taylor,11/5/2003,218
+The Lord of the Rings: Complete Visual Companion,Jude Fisher,11/15/2004,224
+Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz,7/28/2005,558
+Hatchet (Brian's Saga  #1),Gary Paulsen,4/1/2000,208
+"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",Donna Ickes/Edward Sciranko/Keith Vasconcelles,8/28/1994,48
+Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,1/23/2001,144
+Molly Hatchet - 5 of the Best,Molly Hatchet,6/10/2003,56
+Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,11/1/2005,228
+A Changeling for All Seasons (Changeling Seasons #1),Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati,11/1/2005,304
+Changeling (Changeling  #1),Delia Sherman,8/17/2006,256
+The Changeling Sea,Patricia A. McKillip,4/14/2003,137
+The Changeling,Zilpha Keatley Snyder,6/8/2004,228
+The Changeling,Kate Horsley,4/12/2005,339
+The Changeling (Daughters of England  #15),Philippa Carr,8/28/1990,369
+The Known World,Edward P. Jones,8/29/2006,388
+The Known World,Edward P. Jones/Kevin R. Free,6/15/2004,14
+The Known World,Edward P. Jones,6/15/2004,576
+Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives,Satyajit Das,5/15/2006,334
+Artesia: Adventures in the Known World,Mark Smylie,12/14/2005,352
+The John McPhee Reader (John McPhee Reader  #1),John McPhee/William Howarth,6/1/1982,416
+Uncommon Carriers,John McPhee,5/16/2006,248
+Heirs of General Practice,John McPhee,4/1/1986,128
+The Control of Nature,John McPhee,9/1/1990,288
+Annals of the Former World,John McPhee,1/6/1999,720
+Coming Into the Country,John McPhee,4/1/1991,448
+La Place de la Concorde Suisse,John McPhee,4/1/1994,160
+Giving Good Weight,John McPhee,4/1/1994,288
+Rising from the Plains,John McPhee,11/1/1987,208
+The Heidi Chronicles,Wendy Wasserstein,3/1/2002,81
+The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,7/2/1991,249
+Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening,Heidi Hayes Jacobs,3/29/2006,138
+Simply Beautiful Beaded Jewelry,Heidi Boyd,3/14/2006,128
+Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker/Rolland Baker,9/1/2003,192
+Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,1/28/1997,108
+Heidi (Heidi  #1-2),Johanna Spyri/Beverly Cleary/Angelo  Rinaldi,11/15/2002,352
+Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,11/15/2004,192
+There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker/Heidi Baker,4/28/2003,192
+What to Expect the First Year (What to Expect),Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome,10/16/2003,832
+The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss/Libby Keatinge,5/10/2004,123
+Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,8/19/2004,128
+God Emperor of Dune (Dune Chronicles  #4),Frank Herbert,6/15/1987,423
+Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,7/1/1987,436
+Dune Messiah (Dune Chronicles #2),Frank Herbert,7/15/1987,331
+Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,7/1/2004,592
+Heretics of Dune (Dune Chronicles  #5),Frank Herbert,4/16/1984,480
+The Road to Dune,Frank Herbert/Brian Herbert/Kevin J. Anderson,8/29/2006,426
+Heretics of Dune (Dune Chronicles #5),Frank Herbert,8/15/1987,471
+The Lord of the Rings: The Art of the Fellowship of the Ring,Gary Russell,6/12/2002,192
+The Power of One (The Power of One  #1),Bryce Courtenay,9/29/1996,544
+The Power of One (The Power of One  #1),Bryce Courtenay,9/13/2005,291
+The Power of One: One Person  One Rule  One Month,John C. Maxwell/Stephen R. Graves/Thomas G. Addington,11/1/2004,256
+Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,5/19/2006,205
+The Power of One: The Solo Play for Playwrights  Actors  and Directors,Louis E. Catron,2/7/2000,240
+How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days,Adam Ginsberg,5/3/2005,336
+eBay for Dummies,Marsha Collier,10/30/2006,386
+What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta/Lisa Suttora,1/24/2006,260
+Starting an eBay Business for Dummies,Marsha Collier,9/17/2004,384
+eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,6/6/2006,260
+ebay Timesaving Techniques for Dummies,Marsha Collier,5/31/2004,391
+eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,4/25/2005,864
+Ruby Cookbook,Lucas Carlson/Leonard Richardson,7/29/2006,873
+Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,5/3/2005,240
+Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,5/3/2005,206
+Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,1/1/2007,514
+Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky,5/31/2004,838
+Anna Karenina,Leo Tolstoy/David Magarshack/Priscilla Meyer,11/5/2002,960
+Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley,1/30/2003,837
+CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman/Leo Tolstoy,11/26/1965,80
+Anna Karenina,Leo Tolstoy/Amy Mandelker/Constance Garnett,7/1/2003,803
+Anna Karenina,Leo Tolstoy/Louise Maude/Aylmer Maude,11/23/2004,752
+Anna Karenina,Leo Tolstoy/Constance Garnett/Amy Mandelker,8/26/2004,803
+Dinner with Anna Karenina,Gloria Goldreich,1/28/2006,360
+Tolstoy: Anna Karenina,Anthony Thorlby,11/26/1987,128
+Untouchable,Mulk Raj Anand/E.M. Forster,7/3/1990,160
+The Untouchable,John Banville,6/30/1998,367
+The Untouchables,Eliot Ness/Oscar Fraley,2/1/1996,256
+Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,Narendra Jadhav,9/27/2005,320
+Dalit: The Black Untaouchables of India,V.T. Rajshekar/Y.N. Kly,1/28/1995,100
+Growing Up Untouchable in India: A Dalit Autobiography,Vasant Moon/Gail Omvedt/Eleanor Zelliot,12/20/2000,224
+The Evidence-Based Social Work Skills Book,Barry R. Cournoyer,9/22/2003,216
+"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",John Carratello/Patty Carratello/Theresa Wright,9/28/1991,48
+Wrinkles in Time,George Smoot/Keay Davidson,10/1/1994,360
+A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,5/1/2002,250
+Literature Circle Guide: A Wrinkle in Time,Tara MacCarthy,1/1/2002,32
+Una arruga en el tiempo – A Wrinkle in Time,Madeleine L'Engle,6/1/1984,205
+The Long Shadow (The Morland Dynasty  #6),Cynthia Harrod-Eagles,6/1/1994,367
+A Long Shadow (Inspector Ian Rutledge  #8),Charles Todd,1/3/2006,352
+Long Way Round: Chasing Shadows Across the World,Ewan McGregor/Charley Boorman/Robert Uhlig,11/1/2005,320
+A Shadow in Summer (Long Price Quartet  #1),Daniel Abraham,3/7/2006,331
+New Hope for the Dead (Hoke Mosely #2),Charles Willeford/James Lee Burke,8/10/2004,244
+Sideswipe: A Hoke Moseley Novel,Charles Willeford/Lawrence Block,3/8/2005,215
+Miami Blues (Hoke Moseley #1),Charles Willeford/Elmore Leonard,8/10/2004,191
+The Burnt Orange Heresy (Vintage Crime/Black Lizard),Charles Willeford,10/3/1990,144
+I am Charlotte Simmons,Tom Wolfe,8/30/2005,738
+Poetry for Young People: Edward Lear,Edward Lear/Laura Huliska-Beith/Edward Mendelson,10/1/2001,48
+The Puffin Book of Nonsense Verse,Quentin Blake,10/3/1996,287
+Henry Miller on Writing,Henry Miller/Thomas H. Moore,2/1/1964,217
+Quiet Days in Clichy,Henry Miller,1/13/1994,154
+Tropic of Cancer,Henry Miller/Jiří Níl,1/6/1994,318
+Tropic of Capricorn,Henry Miller,1/13/1994,348
+Nexus (The Rosy Crucifixion  #3),Henry Miller,1/13/1994,316
+Sexus (The Rosy Crucifixion  #1),Henry Miller,1/12/1994,506
+The Air-Conditioned Nightmare,Henry Miller,1/17/1970,292
+The Portrait of a Lady,Henry James/Patricia Crick,9/30/2003,797
+The Portrait of a Lady,Henry James/Gabriel Brownstein/Mary Cregan,1/16/2004,635
+Writing,Marguerite Duras,5/6/1999,91
+The War,Marguerite Duras/Barbara Bray,8/1/1994,192
+The Ravishing of Lol Stein,Marguerite Duras/Richard Seever,3/12/1986,181
+Love Letters,Kahlil Gibran/Suheil Bushrui/Salma H. Al-Kuzbari,7/1/1999,178
+Kahlil Gibran: His Life and World,Jean Gibran/جبران خليل جبران/Kahlil Gibran,4/1/1998,464
+The Beloved: Reflections on the Path of the Heart,Kahlil Gibran/John Walbridge/Robin Waterfield,1/1/1998,102
+Jesus the Son of Man,Kahlil Gibran/جبران خليل جبران,2/21/1995,216
+The Broken Wings,Kahlil Gibran/جبران خليل جبران/Anthony Rizcallah Ferris,3/3/2003,132
+Sand and Foam,Kahlil Gibran/جبران خليل جبران,6/14/2011,100
+Treasure Island,Robert Louis Stevenson,9/15/2001,311
+Treasure Island,Robert Louis Stevenson/Scott McKowen,10/1/2004,213
+Treasure Island,Robert Louis Stevenson,6/1/2005,245
+Treasure Island,Robert Louis Stevenson/N.C. Wyeth/Timothy Meis,7/1/2003,64
+Treasure Island,Robert Louis Stevenson/Milo Winter,9/3/2002,272
+Treasure Island (Great Illustrated Classics),Deidre S. Laiken/A.J. McAllister/Robert Louis Stevenson,1/31/2006,232
+100 Years of Lynchings,Ralph Ginzburg,11/22/1996,270
+Cien años de soledad,Gabriel García Márquez,1/1/1990,448
+On Beyond Zebra!,Dr. Seuss,9/12/1955,64
+The Wedding Clause,Debbie Raleigh,6/7/2005,256
+The Zebra Wall,Kevin Henkes,2/15/2005,147
+El perfume: Historia de un asesino,Patrick Süskind,6/1/2002,239
+The Door Into Summer,Robert A. Heinlein,6/17/1997,304
+Stranger in a Strange Land,Robert A. Heinlein,10/1/1991,528
+To Sail Beyond the Sunset,Robert A. Heinlein,6/1/1988,434
+Job: A Comedy of Justice,Robert A. Heinlein,10/12/1985,439
+Time for the Stars (Heinlein's Juveniles  #10),Robert A. Heinlein,8/8/2006,256
+The Long Dark Tea-Time of the Soul (Dirk Gently  #2),Douglas Adams,2/15/1991,307
+The Salmon of Doubt (Dirk Gently  #3),Douglas Adams,4/26/2005,298
+Wish You Were Here: The Official Biography of Douglas Adams,Nick  Webb,12/27/2005,368
+Douglas Adams's Starship Titanic,Terry Jones,10/27/1998,256
+Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams/Christopher Cerf,7/1/2003,336
+The Phantom Tollbooth: A Children's Play in Two Acts,Susan Nanus/Norton Juster,1/12/2011,72
+On Bullshit,Harry G. Frankfurt,1/30/2005,67
+Another Bullshit Night in Suck City,Nick Flynn,9/12/2005,347
+Lincoln at Gettysburg: The Words That Remade America,Garry Wills,6/12/1993,317
+The Gettysburg Address,Abraham Lincoln/Michael McCurdy,2/2/1998,32
+Underworld,Don DeLillo,7/9/1998,827
+Libra,Don DeLillo,5/1/1991,480
+Americana,Don DeLillo,7/6/1989,377
+Running Dog,Don DeLillo,7/17/1989,256
+Cosmopolis,Don DeLillo,4/6/2004,224
+Great Jones Street,Don DeLillo,1/1/1994,272
+The Names,Don DeLillo,7/17/1989,339
+Against the Day,Thomas Pynchon,11/21/2006,1085
+V.,Thomas Pynchon,7/5/2005,547
+The Crying of Lot 49,Thomas Pynchon,4/1/1999,152
+Gravity's Rainbow,Thomas Pynchon,1/1/2000,784
+Mason & Dixon,Thomas Pynchon/Christophe Claro/Brice Matthieussent,1/3/2004,773
+Vineland,Thomas Pynchon,9/1/1997,385
+Gravity's Rainbow,Thomas Pynchon,10/31/2006,776
+Slow Learner: Early Stories,Thomas Pynchon,4/30/1985,193
+Been Down So Long It Looks Like Up To Me,Richard Fariña/Thomas Pynchon,8/29/1996,352
+The Year of Magical Thinking,Joan Didion,10/4/2005,227
+The White Album,Joan Didion,10/1/1990,222
+A Book of Common Prayer,Joan Didion,4/11/1995,272
+Where I Was From,Joan Didion,9/14/2004,240
+Slouching Towards Bethlehem,Joan Didion,10/1/1990,238
+Democracy,Joan Didion,4/25/1995,234
+We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion/John Leonard,10/17/2006,1122
+Play It As It Lays,Joan Didion/David Thomson,11/15/2005,231
+The New York Trilogy,Paul Auster/Art Spiegelman/Luc Sante,3/28/2006,308
+City of Glass (The New York Trilogy  #1),Paul Auster,4/7/1987,203
+Ghosts (The New York Trilogy  #2),Paul Auster,7/7/1987,96
+The Locked Room (The New York Trilogy  #3),Paul Auster,11/1/1986,179
+Pyramids of Montauk: Explorations in Consciousness,Peter Moon/Preston B. Nichols/Nina Helms,1/1/1995,256
+The Brooklyn Follies,Paul Auster,10/17/2006,306
+Moon Palace,Paul Auster,4/1/1990,320
+The Music of Chance,Paul Auster,12/1/1991,217
+Travels in the Scriptorium,Paul Auster,1/23/2007,145
+Leviathan,Paul Auster,9/1/1993,275
+The Red Notebook: True Stories,Paul Auster,6/17/2002,104
+Timbuktu / Leviathan / Moon Palace,Paul Auster,11/7/2002,1075
+Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,12/27/2005,608
+The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb/Glen C. Strathy,2/1/2006,211
+Collapse of Complex Societies,Joseph A. Tainter,3/29/1990,262
+Bowling Alone: The Collapse and Revival of American Community,Robert D. Putnam,8/7/2001,544
+The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,Philip K. Howard,1/29/2002,272
+Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,Joy Harjo/Gloria Bird/Beth Cuthand/Valerie Martinez/Patricia Blanco,9/17/1998,576
+My Inventions,Nikola Tesla,5/17/2006,88
+Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,Marc J.  Seifer/William H. Terbo,2/1/2001,542
+Nikola Tesla: A Spark of Genius,Carol Dommermuth-Costa,10/1/1994,144
+Tesla Papers,Nikola Tesla/David Hatcher Childress,12/1/2000,100
+Boys of Summer,Julie Elizabeth Leto/Leslie Kelly/Kimberly Raye,6/27/2006,249
+Programming Ruby: The Pragmatic Programmers' Guide,Dave Thomas/Chad Fowler/Andy Hunt,10/11/2004,828
+Golding's Lord of the Flies (Cliffs Notes),Maureen Kelly/CliffsNotes/William Golding,6/13/2000,112
+Lord of the Flies,William Golding,10/11/2005,6
+A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War,Victor Davis Hanson,9/12/2006,397
+We Were Not Like Other People,Ephraim Sevela/Antonina W. Bouis,1/1/1989,216
+The Lovely Bones,Alice Sebold,6/1/2003,328
+The Lovely Bones,Alice Sebold,4/1/2004,532
+Lovely in Her Bones (Elizabeth MacPherson  #2),Sharyn McCrumb,5/13/1990,224
+The Zen of CSS Design: Visual Enlightenment for the Web,Dave Shea/Molly E. Holzschlag,2/17/2005,296
+HTML  XHTML  and CSS (Visual Quickstart Guide),Elizabeth Castro,8/1/2006,456
+1000 Record Covers,Michael Ochs/Patrick Javault/Ulrike Wasel,5/15/2005,575
+Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,6/13/2006,245
+Sex  Drugs  and Cocoa Puffs: A Low Culture Manifesto,Chuck Klosterman,7/2/2004,272
+Vice (V  #8),Jane Feather,5/2/1996,419
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus  #1),Robert M. Pirsig,4/25/2006,540
+Once Upon a Cool Motorcycle Dude,Kevin O'Malley/Carol Heyer/Scott Goto,4/1/2005,32
+Guidebook to Zen and the Art of Motorcycle Maintenance,Ronald L. DiSanto/Thomas J. Steele,11/19/1990,408
+Motorcycle Basics Techbook,John Harold Haynes,7/5/2002,222
+LOGO Lounge: 2 000 International Identities by Leading Designers,Catharine M. Fishel/Bill Gardner,9/1/2004,191
+The Death of Ivan Ilych And Other Stories,Leo Tolstoy/Hugh McLean,4/1/2003,304
+War and Peace,Leo Tolstoy/Henry Gifford/Aylmer Maude/Louise Maude,6/25/1998,1392
+The Kingdom of God Is Within You,Leo Tolstoy/Constance Garnett,9/8/2006,352
+Atlas Shrugged,Ayn Rand/Leonard Peikoff,8/1/1999,1168
+For the New Intellectual: The Philosophy of Ayn Rand,Ayn Rand,12/1/1963,224
+The Fountainhead,Ayn Rand,4/26/2005,752
+The Virtue of Selfishness: A New Concept of Egoism,Ayn Rand/Nathaniel Branden,11/1/1964,176
+Anthem,Ayn Rand,12/1/1999,105
+We the Living,Ayn Rand/Leonard Peikoff,1/1/1996,464
+Capitalism: The Unknown Ideal,Ayn Rand/Nathaniel Branden/Alan Greenspan/Robert Hessen,7/15/1986,340
+Letters of Ayn Rand,Ayn Rand/Michael S. Berliner/Leonard Peikoff,2/1/1997,681
+Sailing for Dummies,J.J. Isler/Peter Isler,6/1/2006,416
+Sailing from Byzantium: How a Lost Empire Shaped the World,Colin  Wells,7/25/2006,368
+Sailing Alone Around the Room: New and Selected Poems,Billy Collins,9/17/2002,192
+The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories,Christopher Caswell,4/1/2004,286
+"Natural Cures ""They"" Don't Want You to Know about",Kevin Trudeau,1/1/2004,571
+The Natural,Bernard Malamud/Kevin Baker,7/7/2003,231
+Digging to America,Anne Tyler,5/2/2006,277
+Rereading America: Cultural Contexts for Critical Thinking and Writing,Gary Colombo/Bonnie Lisle,1/21/2004,826
+Modern Latin America,Thomas E. Skidmore/Peter H. Smith,10/7/2004,528
+The Plot Against America,Philip Roth,9/27/2005,391
+Naked Pictures of Famous People,Jon   Stewart,9/22/1999,164
+Collected Stories,Gabriel García Márquez/Gregory Rabassa/J.S. Bernstein,5/13/2008,352
+Crónica de una muerte anunciada,Gabriel García Márquez,10/14/2003,118
+Cien años de soledad,Gabriel García Márquez,2/7/2006,496
+Del amor y otros demonios,Gabriel García Márquez,2/7/2006,176
+Living to Tell the Tale,Gabriel García Márquez/Edith Grossman,10/12/2004,533
+Memoria de mis putas tristes,Gabriel García Márquez,10/19/2004,112
+The Elegant Universe: Superstrings  Hidden Dimensions  and the Quest for the Ultimate Theory,Brian Greene,9/2/2004,425
+Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman,Upasika Kee Nanayon/Thanissaro Bhikkhu,5/15/2005,288
+The Mini Rough Guide to London,Rob Humphreys/Beth Chaplin/Rebecca Morrill,4/1/2006,363
+Best of London (Lonely Planet Best Of),Lonely Planet/Sarah Johnstone/Steve Fallon,9/1/2004,128
+Lonely Planet Londres,Lonely Planet/Sarah Johnstone/Tom Masters,5/1/2006,480
+Out to Eat London 2002 (Lonely Planet Out to Eat),Lonely Planet/Mark Honan,9/1/2001,295
+Three Nights in August: Strategy  Heartbreak  and Joy Inside the Mind of a Manager,H.G. Bissinger,4/4/2006,287
+Cryptonomicon,Neal Stephenson,11/1/2002,1139
+Le Réseau Kinakuta (Cryptonomicon  #2),Neal Stephenson,3/31/2001,418
+The Confusion (The Baroque Cycle  #2),Neal Stephenson,6/14/2005,815
+Quicksilver (The Baroque Cycle  #1),Neal Stephenson,9/21/2004,927
+The Cobweb,Neal Stephenson/J. Frederick George,5/31/2005,448
+The Big U,Neal Stephenson,2/6/2001,308
+The Diamond Age: Or  A Young Lady's Illustrated Primer,Neal Stephenson/Pedro Jorge Romero,5/2/2000,499
+Interface,Neal Stephenson/George F. Jewsbury/Stephen  Bury,5/31/2005,640
+Odalisque (The Baroque Cycle  Vol. 1  Book 3),Neal Stephenson,3/28/2006,464
+Snow Crash,Neal Stephenson/Guy Abadia,8/2/2000,438
+Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume II: The Endgame,Dan Harrington/Bill Robertie,6/1/2005,450
+Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume I: Strategic Play,Dan Harrington/Bill Robertie,12/1/2004,381
+The Design of Everyday Things,Donald A. Norman,9/19/2002,240
+Emotional Design: Why We Love (or Hate) Everyday Things,Donald A. Norman,5/11/2005,272
+The Psychology of Everyday Things,Donald A. Norman,6/13/1988,257
+No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson,Alex C. Jones/Diane M. Hanson/Stephen K. Ray,4/30/2006,259
+The Alchemist,Paulo Coelho/Alan R. Clarke/James Noel Smith,5/2/2006,192
+The Alchemist,Paulo Coelho/Alan R. Clarke/Özdemir İnce,5/1/1993,197
+Fullmetal Alchemist  Vol. 9 (Fullmetal Alchemist  #9),Hiromu Arakawa/Akira Watanabe,9/19/2006,192
+Fullmetal Alchemist  Vol. 3 (Fullmetal Alchemist  #3),Hiromu Arakawa/Akira Watanabe,9/13/2005,192
+Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8),Hiromu Arakawa/Akira Watanabe,7/18/2006,192
+Fullmetal Alchemist  Vol. 1 (Fullmetal Alchemist  #1),Hiromu Arakawa/Akira Watanabe,5/3/2005,192
+Fullmetal Alchemist  Vol. 4 (Fullmetal Alchemist  #4),Hiromu Arakawa/Akira Watanabe,11/8/2005,200
+The Illustrated Alchemist: A Fable about Following Your Dream,Paulo Coelho/Alan R. Clarke/Mœbius,11/1/1998,198
+Fullmetal Alchemist  Vol. 2 (Fullmetal Alchemist  #2),Hiromu Arakawa/Akira Watanabe,7/5/2005,192
+Pompeii,Robert   Harris,11/8/2005,274
+The Last Days of Pompeii,Edward Bulwer-Lytton/John Gregory Betancourt,12/3/2002,360
+Of Mice and Men,John Steinbeck,1/8/2002,103
+The Game: Penetrating the Secret Society of Pickup Artists,Neil Strauss,9/6/2005,464
+The Westing Game,Ellen Raskin,4/12/2004,182
+The Egypt Game,Zilpha Keatley Snyder,7/7/2009,215
+Memoirs of a Geisha,Arthur Golden,11/22/2005,503
+Memoirs of a Geisha,Arthur Golden,11/15/2005,434
+Memoirs of a Geisha,Arthur Golden,12/1/2005,497
+Memoirs of a Geisha: A Portrait of the Film,David        James/Peggy Mulloy/Rob Marshall/Arthur Golden,10/20/2005,144
+Memoirs of a Geisha,Arthur Golden,6/4/1998,497
+Geisha of Gion,Mineko Iwasaki/Rande Brown,5/6/2003,334
+Love As A Foreign Language #5,J. Torres/Eric  Kim,2/1/2006,58
+Jungle Love,Margaret Johnson/Philip Prowse,8/1/2002,95
+The 5 Love Languages / The 5 Love Languages Journal,Gary Chapman,1/1/2005,0
+Angels & Demons (Robert Langdon  #1),Dan Brown,4/1/2006,736
+Ángeles y demonios (Robert Langdon  #1),Dan Brown,12/1/2005,508
+Angeles & Demonios,Dan Brown/Raúl Amundaray,12/1/2005,18
+The Da Vinci Code (Robert Langdon  #2),Dan Brown,3/28/2006,489
+The Da Vinci Code,Dan Brown,3/28/2006,467
+Da Vinci Code (Robert Langdon  #2),Dan Brown/Daniel Roche,5/3/2005,744
+Deception Point,Dan Brown,4/1/2006,736
+Deception Point,Dan Brown,5/1/2004,585
+Deception Point,Dan Brown,8/1/2005,448
+A Killing Rain (Louis Kincaid  #6),P.J. Parrish,2/1/2005,383
+The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley/William D. Danko,10/1/1998,258
+Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century,Napoleon Hill,9/1/2005,320
+Think and Grow Rich,Napoleon Hill,8/7/2004,368
+Pragmatic Version Control: Using Subversion (The Pragmatic Starter Kit Series),Mike   Mason,6/7/2006,256
+Read My Lips: Sexual Subversion and the End of Gender,Riki Anne Wilchins,6/1/2005,288
+Trump: The Art of the Deal,Donald J. Trump/Tony Schwartz,12/28/2004,384
+The Richest Man in Babylon,George S. Clason,2/1/2008,194
+The Richest Man in Babylon,George S. Clason,6/17/2005,4
+Shibumi,Trevanian/Gisela Stege,5/10/2005,480
+1776,David McCullough,7/4/2006,386
+1776,Peter  Stone/Sherman Edwards,11/18/1976,192
+The Crescent Obscured: The United States and the Muslim World  1776-1815,Robert J. Allison,7/15/2000,284
+The Good Earth (House of Earth  #1),Pearl S. Buck,3/4/2009,418
+Purpose Driven Life - For Commuters: What on Earth Am I Here For?,Rick Warren,3/15/2005,5
+Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,7/5/2005,399
+Fast Food Nation: What The All-American Meal is Doing to the World,Eric Schlosser,4/4/2002,384
+Snow Flower and the Secret Fan,Lisa See,2/21/2006,269
+The Broker,John Grisham,9/26/2006,422
+The Power Broker: Robert Moses and the Fall of New York,Robert A. Caro,7/12/1975,1344
+The Power Broker: A Novel (Christian Gillette  #3),Stephen W. Frey,7/25/2006,320
+Body For Life: 12 Weeks to Mental and Physical Strength,Bill Phillips/Michael D'Orso,6/10/1999,201
+Body for Life for Women: A Woman's Plan for Physical and Mental Transformation,Pamela Peeke/Cindy Crawford,4/1/2005,288
+Eating for Life: Your Guide to Great Health  Fat Loss and Increased Energy!,Bill Phillips,11/26/2003,405
+The Warren Buffett Way,Robert G. Hagstrom/Bill Miller/Kenneth L. Fisher,10/1/2005,245
+The Warren Buffett CEO: Secrets from the Berkshire Hathaway Managers,Robert P. Miles/Tom Osborne,4/18/2003,432
+Monkey Business: True Story of the Scopes Trial,Marvin N. Olasky/John R. Perry,5/15/2005,368
+Junie B. Jones and a Little Monkey Business (Junie B. Jones  #2),Barbara Park/Denise Brunkus,2/16/1993,68
+Monkey Business,Sarah Mlynowski,9/24/2004,392
+Liar's Poker,Michael   Lewis,10/1/1990,256
+Liar's Poker: A Harry Garnish Mystery,Frank McConnell,6/1/1993,214
+Risotto: 30 Simply Delicious Vegetarian Recipes from an Italian Kitchen,Ursula Ferrigno/Jason Lowe/Maxine  Clark,3/1/2001,64
+Giada's Family Dinners,Giada De Laurentiis/Victoria Pearson,4/4/2006,256
+Everyday Italian: 125 Simple and Delicious Recipes,Giada De Laurentiis,2/22/2005,256
+Everyday Pasta,Giada De Laurentiis/Victoria Pearson,4/3/2007,240
+Tyler's Ultimate: Brilliant Simple Food to Make Any Time,Tyler Florence/Petrina Tinslay,9/26/2006,256
+Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody Who Likes to Cook,Tyler Florence/JoAnn Cianciulli/Bill Bettencourt/Bobby Flay,3/25/2003,304
+Eat This Book: Cooking with Global Fresh Flavors,Tyler Florence/Petrina Tinslay,10/1/2004,287
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt/Stephen J. Dubner,10/17/2006,320
+Freakonomics: Un economista políticamente incorrecto explora el lado oculto de lo que nos afecta,Steven D. Levitt/Stephen J. Dubner,8/1/2006,250
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt/Stephen J. Dubner,12/8/2006,496
+The Last Assassin (John Rain  #5),Barry Eisler,6/1/2006,338
+Life of Pi,Yann Martel,5/3/2004,401
+L'Histoire de Pi,Yann Martel/Nicole Martel/Emile Martel,11/24/2005,448
+Shadows and Wind: A View of Modern Vietnam,Robert Templer,9/1/1999,400
+A Million Little Pieces,James Frey,9/22/2005,515
+A Million Little Pieces of Feces,Python Bonkers,2/10/2006,256
+A Million Little Lies,James Pinocchio/Pablo Fenjves,3/28/2006,191
+The Leadership Challenge,James M. Kouzes/Barry Z. Posner,8/7/2003,458
+Lincoln on Leadership: Executive Strategies for Tough Times,Donald T. Phillips,2/1/1993,193
+Leadership in Organizations,Gary Yukl,7/7/2005,542
+Leadership,Rudolph W. Giuliani,10/1/2002,397
+Men Are from Mars  Women Are from Venus,John Gray,4/3/2012,368
+Mars and Venus Book of Days: 365 Inspriations to Enrich Your Relationships,John Gray,10/21/1998,368
+Men Are from Mars  Women Are from Venus,John Gray,4/3/2007,2
+How to Succeed with Women,Ron  Louis/David Copeland,10/29/1998,320
+The Clan of the Cave Bear (Earth's Children  #1),Jean M. Auel,6/25/2002,512
+The Clan of the Cave Bear (Earth's Children  #1),Jean M. Auel,5/4/1980,468
+Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,3/17/2004,317
+Juiced Official Strategy Guide,Doug Walsh,6/1/2005,112
+The 48 Laws of Power,Robert Greene/Joost Elffers,9/1/2000,452
+Gates of Fire,Steven Pressfield,9/27/2005,392
+Fire Sea (The Death Gate Cycle  #3),Margaret Weis/Tracy Hickman,3/1/1992,414
+The Gate of Fire (Oath Of Empire Book Two),Thomas Harlan,6/18/2001,721
+The Afghan Campaign,Steven Pressfield,7/1/2006,354
+Tides of War,Steven Pressfield,8/28/2001,448
+Last of the Amazons,Steven Pressfield,7/1/2003,400
+The War of Art: Break Through the Blocks & Win Your Inner Creative Battles,Steven Pressfield/Robert McKee,4/1/2003,168
+Gita on the Green,Stephen J. Rosen/Steven Pressfield,5/30/2002,176
+Blood Stripes: The Grunt's View of the War in Iraq,David J. Danelo/Steven Pressfield,4/24/2006,340
+Phaedrus and Letters VII and VIII,Plato/Walter Hamilton,1/30/1973,160
+Phaedrus,Plato/Robin Waterfield,1/16/2003,128
+Phaedrus,Plato/C.J. Rowe,8/25/2005,176
+Lysis/Phaedrus/Symposium: Plato on Homosexuality,Plato/Benjamin Jowett,12/1/1991,157
+Enthusiasm and Divine Madness,Josef Pieper/Richard Winston/Clara Winston,2/11/2019,125
+On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws,Plato/C.D.C. Reeve,6/15/2006,272
+Gorgias/Phaedrus (Agora),Plato/James H. Nichols Jr.,9/1/1998,233
+Statesman,Plato/C.J. Rowe,3/15/1999,128
+Gorgias,Plato/Walter Hamilton/Chris Emlyn-Jones,1/29/2004,208
+The Histories,Herodotus/Aubrey de Sélincourt/John M. Marincola,1/30/2003,716
+The Histories,Herodotus/Aubrey de Sélincourt/John M. Marincola,9/1/1954,622
+The History (Great Minds),Herodotus/Henry Francis Cary,11/1/1992,613
+The Histories,Herodotus/Carolyn Dewald/Robin Waterfield,11/19/1998,772
+The Histories,Herodotus/Aubrey de Sélincourt/Andrew Robert Burn,8/30/1970,653
+The Histories,Herodotus/Jennifer Tolbert Roberts/Walter Blanco,1/17/1992,464
+The Histories,Herodotus/Edward Henry Blakeney/George Rawlinson/Rosalind Thomas,3/25/1997,816
+The History,Herodotus/Peter Grene,3/14/1987,710
+The Iliad,Homer/Robert Fagles/Bernard Knox,4/29/1999,683
+Iliad,Homer/Stanley Lombardo/Sheila Murnaghan,3/12/1997,574
+The Iliad,Homer/Robert Fitzgerald/Andrew Ford,4/3/2004,588
+The Iliad/The Odyssey,Homer/Robert Fagles/Bernard Knox,11/1/1999,1556
+The Iliad,Homer/E.V. Rieu/Peter Jones/D.C.H. Rieu,1/30/2003,462
+The Iliad,Homer/W.H.D. Rouse,8/1/1999,312
+The Essential Iliad,Homer/Sheila Murnaghan/Stanley Lombardo,9/15/2000,216
+The Odyssey,Homer/Robert Fagles/Bernard Knox,11/30/2006,541
+The Odyssey,Homer/Robert Fitzgerald/D.S. Carne-Ross,11/5/1998,515
+The Odyssey,Homer/Richmond Lattimore,6/1/1999,374
+The Odyssey,Homer/E.V. Rieu/Peter Jones/D.C.H. Rieu,1/30/2003,324
+The Odyssey,Homer/W.H.D. Rouse,8/1/1999,304
+Aeneid: Selections from Books 1  2  4  6  10  12,Virgil/Barbara Weiden Boyd,1/1/2001,161
+Eclogues. Georgics. Aeneid: Books 1-6,Virgil/Henry Rushton Fairclough/G.P. Goold,10/1/1999,607
+City Eclogue,Ed Roberson,1/30/2006,136
+The Eclogues and The Georgics,Virgil/Cecil Day-Lewis,9/2/1999,180
+Paul Kirk's Championship Barbecue Sauces: 175 Make-Your-Own Sauces  Marinades  Dry Rubs  Wet Rubs  Mops and Salsas,Paul  Kirk,12/3/1997,272
+The Complete Pelican Shakespeare,William Shakespeare/Stephen Orgel/A.R. Braunmuller,11/7/2002,1808
+The Complete Works,William Shakespeare,10/13/1991,1248
+Hamlet,William Shakespeare/Harold Bloom/Rex Gibson,8/1/2005,289
+The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company/Adam Long/Daniel Singer/Jess Winfield,2/1/1994,137
+The Pilgrimage: A Contemporary Quest for Ancient Wisdom,Paulo Coelho/Alan R. Clarke,5/1/1995,272
+The Valkyries,Paulo Coelho/Alan R. Clarke,9/28/1996,212
+Warrior of the Light,Paulo Coelho,3/30/2004,142
+The Zahir,Paulo Coelho/Margaret Jull Costa,7/3/2006,336
+By the River Piedra I Sat Down and Wept,Paulo Coelho/Alan R. Clarke,5/23/2006,208
+The Fifth Mountain,Paulo Coelho/Clifford E. Landers,4/26/2000,256
+Veronika Decides to Die,Paulo Coelho/Margaret Jull Costa/Kâmuran Şipal,6/1/2006,210
+Hamlet,William Shakespeare/Stephen Orgel/A.R. Braunmuller,12/1/2001,148
+Cliffs Notes on Shakespeare's Hamlet,Carla Lynn Stockton,5/30/2000,129
+Shakespeare's Hamlet,William Shakespeare/Terri Mategrano,5/29/2000,240
+Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth,Giorgio De Santillana/Hertha Von Dechend,3/24/2015,450
+History of the Peloponnesian War: Bk. 1-2,Thucydides/C.F. Smith,1/1/1919,496
+On Justice  Power and Human Nature: Selections from The History of the Peloponnesian War,Thucydides/Paul Woodruff,10/1/1993,172
+History of the Peloponnesian War: Bk. 5-6,Thucydides/C.F. Smith,1/1/1921,400
+The Peloponnesian War,Thucydides/Steven Lattimore,6/1/1998,530
+The Peloponnesian War: A New Translation  Backgrounds  Interpretations,Thucydides/Jennifer Tolbert Roberts/Walter Blanco,7/17/1998,554
+History of the Peloponnesian War  Bk. 7-8,Thucydides/C.F. Smith,1/1/1923,480
+Thucydides  Book 6 Commentary,Cynthia W. Shelmerdine,1/30/1989,34
+Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,Euripides/Richmond Lattimore/David Grene/Rex Warner/Ralph Gladstone,2/15/1955,221
+Euripides V: Electra / The Phoenician Women / The Bacchae,Euripides/David Grene/Richmond Lattimore/Emily Townsend Vermeule/Elizabeth Wyckoff/William Arrowsmith,1/15/1969,228
+Euripides IV: Rhesus / The Suppliant Women / Orestes / Iphigenia in Aulis,Euripides/David Grene/Richmond Lattimore/William Arrowsmith/Frank William Jones/Charles R. Walker,11/15/1968,307
+Grief Lessons: Four Plays by Euripides,Anne Carson/Euripides,8/1/2006,312
+Ten Plays,Euripides/Moses Hadas/John Maclean,8/1/1990,432
+Euripides III: Hecuba / Andromache / The Trojan Women / Ion (Complete Greek Tragedies  #7),Euripides/David Grene/Richmond Lattimore/William Arrowsmith/John Frederick Nims/Ronald Frederick Willetts,1/15/1992,255
+Euripides II: The Cyclops / Heracles / Iphigenia in Tauris / Helen,Euripides/David Grene/Richmond Lattimore/Witter Bynner/William Arrowsmith,4/15/2002,264
+Medea and Other Plays,Euripides/John Davie/Richard Rutherford,3/27/2003,206
+Cyclops / Alcestis / Medea,Euripides/David Kovacs,1/1/1994,432
+Medea,Euripides/Donald J. Mastronarde,9/16/2002,431
+The Bacchae and Other Plays,Euripides/John Davie/Richard Rutherford,1/26/2006,360
+Bakkhai,Euripides/Reginald Gibbons/Peter H. Burian,2/22/2001,160
+Plays 1: Medea/The Phoenician Women/Bacchae,Euripides/David Thompson/J. Michael Walton,11/9/2000,192
+The Trojan Women and Hippolytus,Euripides,7/17/2002,64
+The Bacchae of Euripides: A Communion Rite,Wole Soyinka,7/17/2004,128
+Orestes and Other Plays,Euripides/James Morwood/Robin Waterfield,12/20/2001,282
+Children of Heracles / Hippolytus / Andromache / Hecuba,Euripides/David Kovacs,2/15/1995,528
+Alcestis,Euripides/William Arrowsmith,2/1/1990,142
+Suppliant Women / Electra / Heracles,Euripides/David Kovacs,9/1/1998,464
+Medea,Euripides/Georgia Ann Machemer/Michael   Collier,8/10/2006,116
+Euripides: Medea,William Allan,10/31/2002,160
+CliffsNotes on Euripides' Medea and Electra,Robert J. Milch,9/13/1965,69
+Trojan Women / Iphigenia Among the Taurians / Ion,Euripides/David Kovacs,12/1/1999,528
+Helen / Phoenician Women / Orestes,Euripides/David Kovacs,6/15/2002,605
+Euripides: Iphigenia at Aulis (Companions to Greek & Roman Tragedy),Euripides/Pantelis Michelakis,3/9/2006,144
+The Complete Greek Tragedies  Volume 3: Euripides,Euripides/David Grene/Richmond Lattimore,8/1/1992,672
+Aeschylus I: Oresteia (Agamemnon  The Libation Bearers  The Eumenides),Aeschylus/David Grene/Richmond Lattimore,5/15/1969,171
+Aeschylus II: The Suppliant Maidens  The Persians  Seven against Thebes  and Prometheus Bound (The Complete Greek Tragedies),Aeschylus/David Grene/Richmond Lattimore/Seth Benardete,2/1/1992,188
+The Oresteia,Aeschylus/Alan Shapiro/Peter H. Burian,10/7/2004,304
+The Oresteia: Agamemnon  The Libation Bearers  The Eumenides,Aeschylus/Robert Fagles/William Bedell Stanford,2/7/1984,335
+Oresteia,Aeschylus/Peter Meineck/Helene P. Foley,9/15/1998,224
+Prometheus Bound and Other Plays,Aeschylus/Philip Vellacott,8/30/1961,160
+The Oresteia,Aeschylus/Ted Hughes,9/4/2004,208
+Aeschylus  1: The Oresteia: Agamemnon/The Libation Bearers/The Eumenides,Aeschylus/David R. Slavitt/Smith Palmer Bovie,11/1/1997,178
+The Complete Greek Tragedies  Volume 1: Aeschylus,Aeschylus/Richmond Lattimore/David Grene,8/1/1992,358
+Aeschylus: The Oresteia (A Student Guide: Landmarks of World Literature),Simon Goldhill,1/22/2004,95
+The Oresteia: Agamemnon  Choephoroe & Eumenides (Everyman's Library  No. 260),Aeschylus/George Thomson/Richard Seaford,1/20/2004,127
+Aeschylus 2: The Persians/Seven Against Thebes/The Suppliants/Prometheus Bound,Aeschylus/David R. Slavitt/Smith Palmer Bovie,1/1/1998,232
+The Oresteia Trilogy: Agamemnon/The Libation-Bearers/The Furies,Aeschylus/E.D.A. Morshead,9/24/1996,151
+The Suppliant Maidens/The Persians/Seven against Thebes/Prometheus Bound,Aeschylus/E.D.A. Morshead,6/17/2004,208
+Sophocles II: Ajax/Women of Trachis/Electra/Philoctetes (Complete Greek Tragedies 4),Sophocles/David Grene/Richmond Lattimore/John Moore/Michael Jameson,5/15/1969,254
+The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,Sophocles/Paul Roche,5/1/1996,288
+The Complete Plays,Sophocles/Paul Roche,3/1/2001,420
+The Oedipus Cycle: Oedipus Rex  Oedipus at Colonus  Antigone,Sophocles/Robert Fitzgerald/Dudley Fitts,11/1/2002,259
+The Three Theban Plays: Antigone  Oedipus the King  Oedipus at Colonus,Sophocles/Robert Fagles/Bernard Knox,1/3/2000,430
+Theban Plays,Sophocles/Peter Meineck/Paul Woodruff,3/15/2003,304
+The Theban Plays (Everyman's Library  #93),Sophocles/David Grene/Charles Segal,10/18/1994,223
+Electra and Other Plays,Sophocles/E.F. Watling,4/30/1953,218
+Antigone; Oedipus the Kingn; Electra,Sophocles/Edith Hall/H.D.F. Kitto,9/17/1998,178
+Oedipus Rex  (The Theban Plays  #1),Sophocles/J.E. Thomas,6/22/2006,75
+The Oedipus Plays of Sophocles,Sophocles/Paul Roche,9/1/1958,390
+Oedipus Rex (Greek and Latin Classics),Sophocles/Roger D. Dawe,8/1/2006,214
+Oedipus the King,Sophocles/Bernard Knox/Cynthia Brantley Johnson,7/1/2005,144
+Four Plays: The Clouds/The Birds/Lysistrata/The Frogs,Aristophanes/William Arrowsmith/Richmond Lattimore/Douglass Parker,11/1/1984,624
+Three Plays by Aristophanes: Lysistrata/Women at the Thesmophoria/Assemblywomen,Aristophanes/Jeffrey Henderson,8/27/1996,256
+The Complete Plays,Aristophanes/Moses Hadas,3/1/1984,577
+Aristophanes 1: The Acharnians/Peace/Celebrating Ladies/Wealth,Aristophanes/David R. Slavitt,1/29/1998,336
+Clouds/Wasps/Birds (Aristophanes 1),Aristophanes/Peter Meineck,9/15/1998,480
+Lysistrata and Other Plays,Aristophanes/Alan H. Sommerstein,1/30/2003,241
+Acharnians,Aristophanes/Jeffrey Henderson,5/1/2003,96
+Clouds,Aristophanes/Kenneth James Dover,12/15/1969,254
+Clouds/Wasps/Peace,Aristophanes/Jeffrey Henderson,12/15/1998,624
+Three Plays: The Wasps / The Poet and the Women / The Frogs,Aristophanes/David B. Barrett,2/28/1964,224
+Four Comedies: Lysistrata / The Frogs / The Birds / Ladies' Day,Aristophanes/Dudley Fitts,1/6/2003,400
+Frogs/Assemblywomen/Wealth (Loeb Classical Library 180),Aristophanes/Jeffrey Henderson,5/1/2002,608
+Cliffs Notes on Aristophanes' Lysistrata  The Birds  The Clouds  The Frogs,W. John Campbell,12/29/1983,80
+Aristophanes and Athens: An Introduction to the Plays,Douglas M. MacDowell,10/1/1995,376
+Lysistrata,Aristophanes/Douglass Parker,2/1/1970,98
+Peace,Aristophanes/S. Douglas Olson,2/25/1999,408
+Lysistrata,Aristophanes/Sarah Ruden,3/1/2003,132
+The Knights / Peace / The Birds / The Assembly Women / Wealth,Aristophanes/Alan H. Sommerstein/David B. Barrett/David Brett,7/27/1978,335
+Genres in Dialogue: Plato and the Construct of Philosophy,Andrea Wilson Nightingale,4/13/2000,238
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,5/18/2004,226
+The Night Gardener,George Pelecanos,8/8/2006,372
+Twelfth Night,William Shakespeare,7/1/2004,272
+Brokeback Mountain,Annie Proulx,12/2/2005,55
+Getting Things Done: The Art of Stress-Free Productivity,David    Allen,12/31/2002,267
+Getting Things Done When You Are Not in Charge,Geoffrey M. Bellman,8/27/2001,176
+Formas breves,Ricardo Piglia,6/1/2001,144
+El último lector,Ricardo Piglia,7/15/2009,209
+Money to Burn,Ricardo Piglia/Amanda Hopkinson,8/1/2004,209
+Respiración artificial,Ricardo Piglia,3/1/2008,218
+Plata quemada,Ricardo Piglia,7/1/2005,227
+American Government: Continuity and Change  Alternate Edition,Karen  O'Connor/Larry J. Sabato,3/11/2005,664
+Essentials of American and Texas Government: Continuity and Change,Karen  O'Connor/Larry J. Sabato,7/29/2005,854
+El túnel,Ernesto Sabato,7/1/2003,159
+The Confessions (Works of Saint Augustine 1),Augustine of Hippo/John E. Rotelle/Maria Boulding,12/1/2002,416
+The City of God,Augustine of Hippo/Thomas Merton/Marcus Dods,9/12/2000,905
+The Enchiridion on Faith Hope and Love (Augustine Series 1),Augustine of Hippo/Bruce Harbert/John E. Rotelle,10/1/1999,144
+Augustine of Hippo: A Biography,Peter R.L. Brown,11/24/2000,576
+On Christian Doctrine,Augustine of Hippo/D.W. Robertson Jr.,1/11/1958,191
+Confessions  Books 1-13,Augustine of Hippo/Peter R.L. Brown/Frank Sheed,1/1/1993,296
+Saint Augustine,Garry Wills,8/30/2005,176
+Augustine: A Very Short Introduction,Henry Chadwick,6/7/2001,144
+On Genesis/A Refutation of the Manichees/The Unfinished Literal Meaning of Genesis (Works of St Augustine 1),Augustine of Hippo/Boniface Ramsey/Edmund Hill,5/1/2004,540
+Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,5/1/2001,302
+Confesiones de un chef,Anthony Bourdain,2/1/2003,478
+The Metamorphoses of Ovid,Ovid/Allen Mandelbaum,4/15/1995,559
+Metamorphoses,Ovid/David Raeburn/Denis Feeney,8/3/2004,723
+Metamorphoses,Ovid/Bernard Knox/Charles    Martin,11/17/2003,624
+Ovid's Metamorphoses: Books 1-5,Ovid/William Scovil Anderson,1/15/1998,584
+Ovid’s Metamorphoses: Books 6-10,Ovid/William Scovil Anderson,1/15/1978,560
+Latin Via Ovid: A First Course,Norma Goldman/Jacob E. Nyenhuis,9/1/1982,524
+The Art of Love and Other Poems,Ovid/J.H. Mozley/G.P. Goold,1/1/1929,400
+The Poems of Exile: Tristia and the Black Sea Letters,Ovid/Peter Green,1/18/2005,451
+Metamorphoses: Volume 2  Books IX-XV,Ovid/Frank Justus Miller,1/1/1985,499
+Metamorphoses: Volume I  Books I-VIII,Ovid/Frank Justus Miller,1/1/1977,496
+Practice! Practice!: A Latin Via Ovid Workbook,Norma Goldman/Michael  Rossi,7/1/1995,152
+Tibullus: A Commentary,Michael C.J. Putnam,11/15/1979,222
+Dionysiac Poetics and Euripides' Bacchae,Charles Segal,11/16/1997,440
+Antigone,Sophocles/Reginald Gibbons/Charles Segal,9/1/2007,197
+Antigone,Sophocles/Reginald Gibbons/Charles Segal,6/5/2003,208
+Object-Oriented Programming in C++,Richard Johnsonbaugh/Martin Kalin,8/13/1999,640
+The Iliad,Homer/Robert Fitzgerald,3/19/1992,594
+Love  Sex & Tragedy: How the Ancient World Shapes Our Lives,Simon Goldhill,11/1/2005,345
+Reading Greek Tragedy,Simon Goldhill,8/5/1986,302
+Who Needs Greek? Contests in the Cultural History of Hellenism,Simon Goldhill,4/4/2002,334
+Foucault's Virginity: Ancient Erotic Fiction & the History of Sexuality (Stanford Memorial Lecture),Simon Goldhill,1/26/1995,212
+2012: The Return of Quetzalcoatl,Daniel Pinchbeck,5/4/2006,408
+Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism,Daniel Pinchbeck/Lee Fukui,8/12/2003,336
+Them: Adventures with Extremists,Jon Ronson,1/7/2003,336
+The Men Who Stare at Goats,Jon Ronson,4/10/2006,259
+Guns  Germs and Steel: The Fates of Human Societies,Jared Diamond,7/11/2005,518
+Caught Inside: A Surfer's Year on the California Coast,Daniel Duane,4/10/1997,256
+Into the Wild,Jon Krakauer,1/20/1997,207
+Wild at Heart: Discovering the Secret of a Man's Soul,John Eldredge,4/1/2001,256
+Wild Swans: Three Daughters of China,Jung Chang,8/12/2003,562
+Wild Fire (John Corey  #4),Nelson DeMille,11/6/2006,519
+Born to Be Wild,Catherine Coulter,7/25/2006,354
+The Call of the Wild,Jack London/Avi,1/1/2001,172
+Wild About Books,Judy Sierra/Marc Brown,8/10/2004,40
+In Web Design for Libraries,Charles P. Rubenstein,12/1/2006,196
+Nickel and Dimed: On (Not) Getting by in America,Barbara Ehrenreich,5/1/2002,240
+The History of Sexuality 1: An Introduction,Michel Foucault/Robert Hurley,10/1/1978,168
+The History of Sexuality  Volume 1: The Will to Knowledge,Michel Foucault/Robert Hurley,10/29/1998,168
+The History of Sexuality  Volume 2: The Use of Pleasure,Michel Foucault/Robert Hurley,7/30/1998,304
+The Making of Pride and Prejudice,Sue Birtwistle/Sue Conklin/Susie Conklin,9/7/1995,128
+Pride and Prejudice,Jane Austen,2/11/2004,333
+Pride & Prejudice,Jane Austen/Vivien Jones,9/1/2005,392
+Pride and Prejudice,Jane Austen/George Saintsbury/Hugh  Thomson,5/5/2005,476
+Pride and Prejudice,Jane Austen/Carol Howard,9/20/2004,392
+Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,7/10/2003,399
+Iceland: Land of the Sagas,David  Roberts/Jon Krakauer,10/6/1998,160
+Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,10/19/1999,368
+In the Land of White Death: An Epic Story of Survival in the Siberian Arctic,Valerian Albanov/Jon Krakauer/David  Roberts/Alison Anderson/Валериан Альбанов,9/4/2001,288
+The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,4/18/2006,616
+La Tierra es plana: Breve historia del mundo globalizado del siglo XXI,Thomas L. Friedman,1/1/2006,495
+The Avalanche Handbook,David McClung/Peter Schaerer,10/12/2006,342
+Avalanche,Arthur J. Roth,1/1/1989,144
+Little Women,Louisa May Alcott,4/6/2004,449
+Little Women (Little Women  #1),Louisa May Alcott/Scott McKowen,10/1/2004,536
+Little Women,Louisa May Alcott/Paula Danziger,1/1/2000,562
+Little Women,Louisa May Alcott/Jessie Willcox Smith/Frank T. Merrill,9/3/2002,389
+Little Women  Little Men  Jo's Boys,Louisa May Alcott/Elaine Showalter,2/17/2005,1064
+Little Women,Louisa May Alcott,2/1/2004,327
+A Tale of Two Cities,Charles Dickens/Keith Cox/Cynthia Brantley Johnson,5/1/2004,496
+A Tale of Two Cities,Charles Dickens/Gillen D'Arcy Wood,7/25/2004,409
+A Tale of Two Cities: Charles Dickens,SparkNotes,1/10/2002,96
+A Tale of Two Cities,Charles Dickens/Gillen D'Arcy Wood,12/1/2003,429
+A Tale of Two Cities,Charles Dickens/Simon Schama,3/18/1993,432
+Den of Thieves,James B. Stewart,9/1/1992,592
+Den of Thieves (Cat Royal  #3),Julia Golding,1/31/2007,416
+Charles Dickens: Four Novels:  Great Expectations  Hard Times  A Christmas Carol  and A Tale of Two Cities,Charles Dickens,10/2/1993,848
+Bleak House,Charles Dickens/Mary Gaitskill/Hablot Knight Browne,7/9/2002,887
+David Copperfield,Charles Dickens/Gish Jen,2/7/2006,928
+What Jane Austen Ate and Charles Dickens Knew: From Fox Hunting to Whist—the Facts of Daily Life in 19th-Century England,Daniel Pool,4/21/1994,416
+Charles Dickens,Jane Smiley,5/13/2002,224
+Martin Chuzzlewit,Charles Dickens/Patricia Ingham/Hablot Knight Browne,11/25/1999,830
+Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters),Jared Diamond,9/25/1998,176
+The Third Chimpanzee: The Evolution & Future of the Human Animal,Jared Diamond,1/1/1992,407
+J.K.Rowling,Colleen Sexton,9/1/2005,112
+Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,J.K. Rowling,11/1/2001,240
+J.K. Rowling's Harry Potter Novels: A Reader's Guide,Philip Nel,9/26/2001,96
+Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling,6/23/2006,768
+The Santaroga Barrier,Frank Herbert,9/16/2002,256
+The Dosadi Experiment (ConSentiency Universe  #2),Frank Herbert,9/16/2002,320
+The Eyes of Heisenberg,Frank Herbert,9/16/2002,192
+The Birds (Methuen Drama),Sean O'Brien,7/22/2002,96
+The Frogs,Aristophanes/B.B. Rogers,1/1/2005,88
+Lysistrata,Aristophanes/Jeffrey Henderson,6/21/1990,320
+"Myths of the Underworld Journey: Plato  Aristophanes  and the ""Orphic"" Gold Tablets",Radcliffe G. Edmonds III,11/18/2004,276
+Assembly of Women (Literary Classics),Aristophanes/Robert Mayhew,4/1/1997,124
+Comoediae 1: Acharenses/Equites/Nubes/Vespae/Pax/Aves,Aristophanes/F.W. Hall/W.M. Geldart,2/22/1922,364
+Aristophanes and His Theatre of the Absurd,Paul Anthony Cartledge,6/1/1991,127
+Later Novels and Other Writings: The Lady in the Lake / The Little Sister / The Long Goodbye / Playback / Double Indemnity (screenplay) / Selected Essays and Letters,Raymond Chandler/Frank MacShane,10/1/1995,1076
+Stories and Early Novels: Pulp Stories / The Big Sleep / Farewell  My Lovely / The High Window,Raymond Chandler/Frank MacShane,10/1/1995,1199
+The Lady in the Lake  The Little Sister  The Long Goodbye  Playback (Everyman's Library),Raymond Chandler/Tom Hiney,10/15/2002,1016
+The High Window (Philip Marlowe  #3),Raymond Chandler,8/12/1992,265
+The Simple Art of Murder,Raymond Chandler,9/12/1988,384
+The Big Sleep (Philip Marlowe  #1),Raymond Chandler,7/12/1988,231
+The Long Goodbye (Philip Marlowe  #6),Raymond Chandler,8/12/1988,379
+An Evening of Long Goodbyes,Paul Murray,9/13/2005,448
+The Long Goodbye: Memories of My Father,Patti   Davis,10/1/2005,205
+Ghost In the Shell 2: Innocence: After the Long Goodbye,Masaki Yamada/Yuji Oniki/Carl Gustav Horn,10/11/2005,196
+The Long Goodbye (Philip Marlowe  #6),Raymond Chandler,9/20/2004,2
+Breaking the Spell: Religion as a Natural Phenomenon,Daniel C. Dennett,2/24/2006,448
+Darwin's Dangerous Idea: Evolution and the Meanings of Life,Daniel C. Dennett,6/12/1996,588
+Freedom Evolves,Daniel C. Dennett,1/27/2004,368
+Brainstorms: Philosophical Essays on Mind and Psychology,Daniel C. Dennett,7/13/1981,424
+Kinds of Minds: Towards an Understanding of Consciousness,Daniel C. Dennett,6/12/1997,192
+Leaps of Faith: Science  Miracles & the Search for Supernatural Consolation,Nicholas Humphrey/Daniel C. Dennett,6/4/1999,244
+Elbow Room: The Varieties of Free Will Worth Wanting,Daniel C. Dennett,11/21/1984,212
+The Mind’s I: Fantasies and Reflections on Self and Soul,Douglas R. Hofstadter/Daniel C. Dennett,4/1/1985,512
+The Illustrated A Brief History of Time,Stephen Hawking,11/1/1996,256
+A Briefer History of Time,Stephen Hawking/Leonard Mlodinow,9/27/2005,176
+The Universe in a Nutshell,Stephen Hawking,11/6/2001,216
+God Created the Integers: The Mathematical Breakthroughs That Changed History,Stephen Hawking,10/4/2005,1160
+Stephen Hawking's Universe: The Cosmos Explained,David Filkin/Stephen Hawking,10/9/1998,304
+The Future of Spacetime,Stephen Hawking/Kip S. Thorne/Igor Novikov/Timothy Ferris/Alan Lightman/Richard     Price,6/17/2003,224
+Stephen Hawking's Universe,John Boslough,6/1/1989,160
+The Nature of Space and Time,Stephen Hawking/Roger Penrose,10/8/2000,152
+The Physics of Star Trek,Lawrence M. Krauss/Stephen Hawking,8/16/1996,188
+Falconry & Hawking,Phillip Glasier,2/1/2006,352
+The World Treasury of Physics  Astronomy & Mathematics from Albert Einstein to Stephen W. Hawking & from Annie Dillard to John Updike,Timothy Ferris,6/30/1993,859
+The Art of Nonfiction: A Guide for Writers and Readers,Ayn Rand/Robert Mayhew/Peter   Schwartz,2/1/2001,192
+The Journals of Ayn Rand,Ayn Rand/Leonard Peikoff/David Harriman,8/1/1999,752
+The Fountainhead,Ayn Rand/Leonard Peikoff,9/1/1996,704
+The 36-Hour Day: A Family Guide to Caring for Persons with Alzheimer Disease  Related Dementing Illnesses  and Memory Loss in Later Life,Nancy L. Mace/Peter V. Rabins,11/1/2006,624
+The 3-Hour Diet: On the Go,Jorge Cruise,10/18/2005,192
+The Last Hours of Ancient Sunlight: The Fate of the World and What We Can Do Before It's Too Late,Thom Hartmann/Joseph Chilton Pearce/Neale Donald Walsch,4/27/2004,400
+Specimen Days,Michael Cunningham,4/18/2006,336
+A Home at the End of the World,Michael Cunningham,7/1/2004,342
+Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,1/11/2005,277
+Blink,Ted Dekker,10/11/2004,400
+Blink-182: Tales from Beneath Your Mom,Mark Hoppus/Anne Hoppus/Alex Gaskarth,10/2/2001,112
+The Complete Novels,Jane Austen/Hugh  Thomson,9/3/1995,1103
+The Jane Austen Book Club,Karen Joy Fowler,4/26/2005,288
+Jane Austen: The Complete Novels,Jane Austen,6/1/1994,1103
+Jane Austen's Letters,Jane Austen/Deirdre Le Faye,4/3/1997,672
+Persuasion,Jane Austen/James Kinsley/Anna Massey/Richard S. Hartmetz/Maurgaux Motin/Deidre Shauna Lynch,3/18/2004,249
+Tea with Jane Austen,Kim Wilson/Tom Carpenter,9/3/2004,128
+The Old Man and the Sea,Ernest Hemingway/Donald Sutherland,5/1/2006,3
+Cliffs Notes on Hemingway's The Old Man and the Sea,Jeanne Sallade Criswell/Gary Carey,12/5/2000,80
+Flaubert's Parrot,Julian Barnes,11/27/1990,190
+Flaubert in Egypt: A Sensibility on Tour,Gustave Flaubert/Francis Steegmuller,3/30/1996,230
+A Sentimental Education,Gustave Flaubert/Douglas Parmée,5/18/2000,464
+Three Tales,Gustave Flaubert/Roger Whitehouse/Geoffrey Wall,1/27/2005,110
+Sentimental Education,Gustave Flaubert/Robert Baldick/Geoffrey Wall,2/5/2004,460
+The Family Idiot 5: Gustave Flaubert 1821-1857,Jean-Paul Sartre/Carol Cosman,1/26/1994,632
+Middlesex,Jeffrey Eugenides,9/16/2003,529
+Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,9/26/2006,916
+John Adams,David McCullough,5/22/2001,751
+The John Adams Reader: Eseential Writings on an American Composer,Thomas May/John   Adams,6/1/2006,455
+The Letters of John and Abigail Adams,Abigail Adams/Frank Shuffelton,12/30/2003,512
+Passionate Sage: The Character and Legacy of John Adams,Joseph J. Ellis,2/17/2001,288
+The Portable John Adams,John  Adams/John Patrick Diggins,6/29/2004,533
+Sex For Dummies,Ruth Westheimer,12/28/2000,432
+Baby Signing For Dummies,Jennifer Watson,10/1/2006,257
+The Feeling Good Handbook,David D. Burns,10/28/1999,729
+On Death and Dying,Elisabeth Kübler-Ross,7/2/1997,288
+Questions and Answers on Death and Dying: A Companion Volume to On Death and Dying,Elisabeth Kübler-Ross,6/9/1997,192
+The Last Dance: Encountering Death and Dying,Lynne Ann DeSpelder/Albert Lee Strickland,2/6/2004,664
+Mahatma Gandhi and His Myths: Civil Disobedience  Nonviolence  and Satyagraha in the Real World (Plus Why It's Gandhi  Not Ghandi),Mark Shepard,1/1/2002,46
+The Seven Habits of Highly Effective People,Stephen R. Covey,9/15/1990,368
+The 7 Habits of Highly Effective People Personal Workbook,Stephen R. Covey,1/6/2004,192
+Daily Reflections For Highly Effective People: Living the 7 Habits of Highly Successful People Every Day,Stephen R. Covey,3/21/1994,384
+Way of the Peaceful Warrior: A Book That Changes Lives,Dan Millman,4/13/2006,240
+Secret of the Peaceful Warrior,Dan Millman/Robert D. San Souci/T. Taylor Bruce,12/28/1992,32
+It's Not about the Bike: My Journey Back to Life,Lance Armstrong/Sally Jenkins,9/1/2001,294
+23 Days in July: Inside the Tour de France and Lance Armstrong's Record-Breaking Victory,John Wilcockson/Graham   Watson,6/15/2005,344
+Truman,David McCullough,6/14/1993,1120
+The Complete Stories of Truman Capote,Truman Capote/Reynolds Price,9/13/2005,320
+Breakfast at Tiffany's: A Short Novel and Three Stories,Truman Capote,1/13/1994,162
+Murder at The Washington Tribune (Capital Crimes  #21),Margaret Truman,10/31/2006,384
+Murder at Ford's Theatre (Capital Crimes  #19),Margaret Truman,9/30/2003,376
+Other Voices  Other Rooms,Truman Capote,2/1/1994,232
+In Cold Blood,Truman Capote/Scott Brick,1/3/2006,15
+Emergence: The Connected Lives of Ants  Brains  Cities  and Software,Steven Johnson,9/10/2002,288
+Emergence: Labeled Autistic,Temple Grandin/Margaret M. Scariano,9/1/1996,200
+The Emergence of Life on Earth: A Historical and Scientific Overview,Iris Fry,2/1/2000,344
+The Ghost Stories of Edith Wharton,Edith Wharton/Laszlo Kubinyi,10/10/1997,303
+The House of Mirth / The Reef / The Custom of the Country / The Age of Innocence,Edith Wharton/R.W.B. Lewis,5/12/1986,1328
+Collected Stories  1911-1937,Edith Wharton/Maureen Howard,1/29/2001,848
+Novellas and Other Writings: Madame de Treymes / Ethan Frome / Summer / Old New York / The Mother’s Recompense / A Backward Glance,Edith Wharton/Cynthia Griffin Wolff,4/1/1990,1137
+The House of Mirth,Edith Wharton,8/6/2002,272
+Below the Root,Zilpha Keatley Snyder/Alton Raible,1/1/1975,231
+The Witches of Worm,Zilpha Keatley Snyder,5/1/1991,183
+The Deeper Meaning of Liff,Douglas Adams/John Lloyd,4/19/2005,192
+Dirk Gently's Holistic Detective Agency (Dirk Gently #1),Douglas Adams,9/30/2005,6
+The Letters of J.R.R. Tolkien,J.R.R. Tolkien/Humphrey Carpenter/Christopher Tolkien,6/6/2000,502
+The History of the Lord of the Rings (The History of Middle-earth #6-9),J.R.R. Tolkien/Christopher Tolkien,9/1/2000,1680
+The Languages of Tolkien's Middle-Earth,Ruth S. Noel/J.R.R. Tolkien,5/28/1980,207
+The Lord of the Rings- 3 volumes set (The Lord of the Rings  #1-3),J.R.R. Tolkien,6/1/2005,1438
+Farmer Giles of Ham,J.R.R. Tolkien/Christina Scull/Wayne G. Hammond,11/15/1999,127
+Tandia,Bryce Courtenay,8/31/1998,905
+Matthew Flinders' Cat,Bryce Courtenay,12/31/2002,611
+Solomon's Song (The Potato Factory  #3),Bryce Courtenay,8/31/2001,671
+An Introduction to Old Norse,E.V. Gordon/A.R. Taylor,7/23/1981,412
+Cold Counsel: Women in Old Norse Literature and Myth,Sarah M.  Anderson/Karen Swenson,12/21/2002,320
+Brave Companions: Portraits in History,David McCullough,11/1/1992,240
+Mornings on Horseback: The Story of an Extraordinary Family  a Vanished Way of Life  and the Unique Child Who Became Theodore Roosevelt,David McCullough,5/12/1982,445
+John Adams,David McCullough,5/1/2001,752
+The Johnstown Flood,David McCullough,1/1/1990,302
+The Path Between the Seas: The Creation of the Panama Canal  1870-1914,David McCullough,6/1/2004,697
+The Bone Collector (Lincoln Rhyme  #1),Jeffery Deaver,4/1/1998,528
+The Bone Collector's Son,Paul Yee,1/1/2004,137
+El Coleccionista De Huesos (Lincoln Rhyme  #1),Jeffery Deaver,6/1/2003,640
+Moby Dick,Herman Melville/William Hootkins,9/1/2005,25
+Moby-Dick,Jan Needle/Patrick Benson/Herman Melville,9/12/2006,192
+Moby Dick,Herman Melville/William Hootkins,6/16/2005,6
+Moby-Dick,Herman Melville/Carl F. Hovde,4/1/2003,707
+Herman Melville's Moby-Dick: A Routledge Study Guide and Sourcebook,Michael J. Davey/Duncan Wu,9/18/2003,208
+Moby Dick: or The White Whale (Oxford Illustrated Classics),Geraldine McCaughrean/Victor G. Ambrus/Herman Melville,4/16/1998,104
+Melville's Moby Dick: An American Nekyia (Studies in Jungian Psychology by Jungian Analysts),Edward F. Edinger,4/30/2004,156
+Moby Dick: Or  the White Whale (Oxford Illustrated Classics Series),Geraldine McCaughrean/Victor G. Ambrus/Herman Melville,4/3/1997,102
+Melville and the politics of identity: From *King Lear* to *Moby-Dick*,Julian Markels,7/1/1993,164
+"Unpainted to the Last: ""Moby Dick"" and Twentieth-century American Art",Elizabeth A. Schultz,10/20/1995,400
+Double Tap (Paul Madriani  #8),Steve Martini,12/27/2005,401
+The List,Steve Martini,12/1/1997,451
+Witches Abroad (Discworld  #12; Witches #3),Terry Pratchett,7/30/2002,374
+The Innocents Abroad,Mark Twain/Grover Gardner,2/11/2003,560
+Teaching English Abroad,Susan  Griffith,1/1/2007,576
+Theocritus: Select Poems: Select Poems,Theocritus/Kenneth James Dover,6/1/1991,395
+The Shield. Catalogue of Women. Other Fragments. (Hesiod II),Hesiod/Glenn W. Most,3/1/2007,434
+Death and the King's Horseman,Wole Soyinka/Simon Gikandi,11/5/2002,254
+The Time Machine,H.G. Wells/Patrick Parrinder/Steven McLean/Marina Warner,3/31/2005,104
+The Time Machine,H.G. Wells/Cynthia Brantley Johnson/Benjamin Beard,7/1/2004,150
+The Ultimate Time Machine: A Remote Viewer's Perception of Time & Predictions for the New Millennium,Joseph McMoneagle,10/1/1998,275
+The Time Machine,H.G. Wells/Melvin Burgess,3/1/2004,123
+The Complete Short Stories,H.G. Wells/John R. Hammond,5/1/2001,864
+Selected Stories,H.G. Wells/Ursula K. Le Guin,7/13/2004,432
+Tono-Bungay,H.G. Wells/Edward Mendelson/Patrick Parrinder,6/28/2005,414
+The Name of the Rose (Everyman's Library (Cloth)),Umberto Eco,9/26/2006,560
+In the Name of Jesus: Reflections on Christian Leadership,Henri J.M. Nouwen,10/1/1992,120
+Blood Done Sign My Name: A True Story,Timothy B. Tyson,5/3/2005,368
+Blindness,José Saramago/Giovanni Pontiero,10/4/1999,326
+The Gospel According to Jesus Christ,José Saramago/Giovanni Pontiero,9/28/1994,377
+All the Names,José Saramago/Margaret Jull Costa,10/5/2001,245
+The Tale of the Unknown Island,José Saramago/Peter Sís/Margaret Jull Costa,10/5/2000,64
+Baltasar and Blimunda,José Saramago/Giovanni Pontiero,10/16/1998,346
+The Cave,José Saramago/Margaret Jull Costa,10/15/2003,307
+The Stone Raft,José Saramago/Giovanni Pontiero,6/14/1996,292
+The Year of the Death of Ricardo Reis,José Saramago/Giovanni Pontiero,9/17/1998,384
+El hombre duplicado,José Saramago/Pilar del Río,9/1/2004,380
+Ensayo sobre la lucidez,José Saramago/Pilar del Río,1/1/2005,461
+La caverna,José Saramago/Pilar del Río,2/1/2003,441
+The History of the Siege of Lisbon,José Saramago/Giovanni Pontiero,9/1/1998,314
+Las intermitencias de la muerte,José Saramago/Pilar del Río,12/1/2005,274
+The Treasured Writings of Kahlil Gibran,Kahlil Gibran,10/6/2009,902
+The Prophet,Kahlil Gibran/جبران خليل جبران/Jihad El,1/1/2010,127
+A Tear and a Smile,Kahlil Gibran/جبران خليل جبران/H.M. Nahmad/Robert Hillyer,6/27/1950,228
+On the Road,Jack Kerouac,9/6/2005,320
+On the Road,Jack Kerouac/Ann Charters,2/24/2000,281
+De Kooning: An American Master,Mark Stevens/Annalyn Swan,4/4/2006,732
+Willem de Kooning: Late Paintings,Julie Sylvester/David Sylvester,9/1/2006,83
+Aké: The Years of Childhood,Wole Soyinka,10/23/1989,230
+Ready for Anything: 52 Productivity Principles for Getting Things Done,David    Allen,12/28/2004,165
+The Facilitator's Book of Questions: Tools for Looking Together at Student and Teacher Work,David  Allen/Tina Blythe/Gene Thompson-Grove,4/29/2004,142
+Sun Tzu and the Art of Business: Six Strategic Principles for Managers,Sun Tzu/Mark McNeilly,4/1/2000,272
+Marketing Warfare,Al Ries/Jack Trout,12/13/2005,216
+The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,1/7/2002,301
+Unleashing the Ideavirus: Stop Marketing AT People! Turn Your Ideas into Epidemics by Helping Your Customers Do the Marketing thing for You.,Seth Godin/Malcolm Gladwell,10/10/2001,234
+The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business,Clayton M. Christensen/L.J. Ganser,1/7/2003,286
+Great Expectations,Charles Dickens/David Trotter/Charlotte Mitchell,12/31/2002,512
+Great Expectations: Authoritative Text  Backgrounds  Contexts  Criticism,Charles Dickens/Edgar Rosenberg,1/19/1999,776
+Luther and Erasmus: Free Will and Salvation (Library of Christian Classics),Erasmus/Martin Luther/Philip S. Watson/E. Gordon Rupp,1/1/1969,364
+To Kill a Mockingbird,Harper Lee,7/5/2005,323
+To Kill a Mockingbird,Harper Lee/Sissy Spacek,8/22/2006,11
+To Kill a Mockingbird,Harper Lee,10/17/2006,323
+The Wealthy Barber: Everyone's Common-Sense Guide to Becoming Financially Independent,David H. Chilton,9/20/1995,199
+A Modest Proposal and Other Satirical Works,Jonathan Swift,2/2/1996,64
+Gulliver's Travels / A Modest Proposal,Jonathan Swift/Jesse Gale,8/1/2005,416
+Empire 2.0: A Modest Proposal for a United States of the West (Terra Nova),Xavier de C./Xavier de C./Joseph Rowe,5/4/2004,144
+The Bostonians,Henry James/R.D. Gooder,7/23/1998,504
+Novels 1896–1899: The Other House / The Spoils of Poynton / What Maisie Knew / The Awkward Age,Henry James/Myra Jehlen,3/10/2003,1035
+Novels 1901–1902: The Sacred Fount / The Wings of the Dove,Henry James/Leo Bersani,2/2/2006,713
+Complete Stories 1892–1898,Henry James/John Hollander/David Bromwich,1/1/1996,958
+The Canterbury Tales,Geoffrey Chaucer/Nevill Coghill,1/30/2003,504
+The Canterbury Tales,Geoffrey Chaucer/David  Wright,7/9/1998,465
+The Canterbury Tales (original-spelling edition),Geoffrey Chaucer/Jill Mann,4/7/2005,1254
+Chaucer's Canterbury Tales (Selected): An Interlinear Translation,Geoffrey Chaucer/Vincent Foster Hopper,12/31/1977,530
+Oxford Guides to Chaucer: The Canterbury Tales,Helen  Cooper,5/23/1996,456
+Love Visions,Geoffrey Chaucer/Brian Stone,5/26/1983,272
+Chaucer's Canterbury Tales,Geoffrey Chaucer,1/28/1964,383
+The Riverside Chaucer,Geoffrey Chaucer/Larry Dean Benson/F.N. Robinson,12/12/1987,1327
+The Portable Chaucer,Geoffrey Chaucer/Theodore Morrison,5/26/1977,611
+Salt: A World History,Mark Kurlansky,1/28/2003,484
+Salt in His Shoes: Michael Jordan in Pursuit of a Dream,Deloris Jordan/Kadir Nelson/Roslyn M. Jordan,11/1/2003,32
+The Book of Salt,Monique Truong,6/15/2004,261
+Cities of Salt (مدن الملح #1),Abdul Rahman Munif/Peter Theroux,7/17/1989,627
+The Years of Rice and Salt,Kim Stanley Robinson,6/3/2003,763
+Illuminations: Essays and Reflections,Walter Benjamin/Hannah Arendt/Harry Zohn/Leon Wieseltier,1/13/1969,288
+Saul Steinberg: Illuminations,Saul Steinberg/Joel Smith/Charles Simic,11/1/2006,288
+Advanced Global Illumination,Philip Dutre,8/30/2006,366
+Snow Falling On Cedars,David Guterson,10/21/1999,404
+The Lost Boy (Dave Pelzer #2),Dave Pelzer,8/1/1997,331
+Real Boys: Rescuing Our Sons from the Myths of Boyhood,William S. Pollack/Mary Pipher,5/10/1999,480
+Microserfs,Douglas Coupland,1/1/2008,371
+New Media Language,Jean Aitchison/Diana M. Lewis,5/22/2003,209
+The Denial of Death,Ernest Becker/Sam Keen/Daniel Goleman,5/8/1997,336
+A People's History of the United States,Howard Zinn,8/2/2005,729
+A People's History of the United States,Howard Zinn/Kathy Emery/Ellen Gordon Reeves,7/1/2003,619
+A People's History of the United States: The Civil War to the Present,Howard Zinn/Kathy Emery/Ellen Gordon Reeves,8/1/2003,496
+Graphic Design: A Concise History (World of Art),Richard Hollis,5/17/2002,232
+Immigrant Acts: On Asian American Cultural Politics,Lisa Lowe,10/21/1996,272
+The Old Way of Seeing: How Architecture Lost Its Magic - And How to Get It Back,Jonathan Hale,9/1/1995,256
+The Crying of Lot 49,Thomas Pynchon,10/17/2006,152
+E=mc²: A Biography of the World's Most Famous Equation,David Bodanis,10/1/2000,337
+Passionate Minds,David Bodanis,10/10/2006,373
+Christian Mythmakers: C.S. Lewis  Madeleine L'Engle  J.R.R. Tolkien  George MacDonald  G.K. Chesterton  Charles Williams  Dante Alighieri  John Bunyan  Walter Wangerin  Robert Siegel  and Hannah Hurnard,Rolland Hein/Clyde S. Kilby,12/1/2002,303
+A House Like a Lotus (O'Keefe Family  #3),Madeleine L'Engle,11/1/1985,307
+The Rock That Is Higher: Story as Truth,Madeleine L'Engle,3/19/2002,320
+The Glorious Impossible,Madeleine L'Engle/Giotto di Bondone,9/30/1990,64
+A Full House: An Austin Family Christmas (Austin Family  #5.6),Madeleine L'Engle/Mary Chambers,3/7/2000,48
+A Circle of Quiet (Crosswicks Journals #1),Madeleine L'Engle,1/1/1984,246
+The Birth of Tragedy and Other Writings,Friedrich Nietzsche/Raymond Geuss/Ronald Speirs,4/22/1999,204
+The Birth of Tragedy/The Genealogy of Morals,Friedrich Nietzsche/Francis Golffing,5/7/1990,320
+The Birth of Tragedy,Friedrich Nietzsche,6/17/2004,84
+The Birth of Tragedy,Friedrich Nietzsche/Michael Tanner/Shaun Whiteside,11/27/2003,160
+Birth Of A Tragedy: Kashmir 1947,Alastair Lamb,3/14/2008,179
+The Tragedy of Pudd'nhead Wilson/Those Extraordinary Twins,Mark Twain/David Lionel Smith/Sherley Anne Williams,3/6/1997,512
+The Tragedy of Pudd'nhead Wilson,Mark Twain/Michael Prichard,1/1/2003,0
+Bridge to Terabithia,Katherine Paterson/Donna Diamond,7/1/2008,191
+Literature Circle Guide: Bridge to Terabithia: Everything You Need For Successful Literature Circles That Get Kids Thinking  Talking  Writing—and Loving Literature,Tara MacCarthy,1/1/2002,32
+Bread and Roses  Too,Katherine Paterson,9/4/2006,275
+The Invisible Child,Katherine Paterson,12/31/2001,266
+A Short History of Decay,Emil M. Cioran/Richard Howard,9/15/1998,186
+Scholar of Decay (Ravenloft  #14),Tanya Huff,5/1/2000,313
+Girl with a Pearl Earring,Tracy Chevalier,9/30/2003,233
+The Golden Tulip,Rosalind Laker,9/1/1991,585
+Burning Bright,Tracy Chevalier,3/20/2007,320
+Falling Angels,Tracy Chevalier,9/24/2002,336
+The Virgin Blue,Tracy Chevalier,6/24/2003,304
+Wenn Engel fallen,Tracy Chevalier,2/1/2002,384
+Tom Hunter: Living in Hell and Other Stories,Tom Hunter/Tracy Chevalier/Colin Wiggins,3/8/2006,80
+Bleach  Volume 15,Tite Kubo,10/3/2006,208
+Bleach  Volume 01,Tite Kubo,5/19/2004,200
+Bleach  Volume 14,Tite Kubo,8/1/2006,208
+Bleach  Volume 11,Tite Kubo,2/7/2006,208
+Bleach  Volume 12,Tite Kubo,4/4/2006,208
+DEATH NOTE デスノート 1,Tsugumi Ohba/Takeshi Obata/大場 つぐみ/小畑 健,4/2/2004,195
+Death Note  Vol. 4: 恋心 (Death Note  #4),Tsugumi Ohba/Takeshi Obata,11/11/2004,204
+Death Note  Vol. 3: 激走 (Death Note  #3),Tsugumi Ohba/Takeshi Obata,9/3/2004,194
+Love Artist (Harlequin Romance #2860),Valerie Parv,7/24/1987,187
+Perfume: The Story of a Murderer,Patrick Süskind/John E. Woods,2/13/2001,255
+Das Parfum. Die Geschichte eines Mörders,Patrick Süskind,6/1/1994,321
+Three Stories and a Reflection,Patrick Süskind,11/13/1997,128
+The Pigeon,Patrick Süskind,6/29/1989,77
+The Story of Mr Sommer,Patrick Süskind/Jean-Jacques Sempé,11/3/2003,128
+Bleach―ブリーチ― 1 [Burīchi 1] (Bleach  #1),Tite Kubo,1/5/2002,189
+Bleach  Tome 1: The Death and the Strawberry,Tite Kubo,7/2/2003,192
+Escape from Fire Mountain (World of Adventure  #3),Gary Paulsen/Steve Chorney,1/1/1995,80
+How Angel Peterson Got His Name,Gary Paulsen,8/10/2004,111
+Tucket's Travels: Francis Tucket's Adventures In The West  1847-1849 (The Tucket Adventures  #1-5),Gary Paulsen,9/9/2003,560
+Chicago Blues: The City and the Music,Mike  Rowe/Ronald Radano,8/22/1981,226
+Winterdance: The Fine Madness of Running the Iditarod,Gary Paulsen,2/17/1995,272
+Brian's Winter,Gary Paulsen,1/1/1996,133
+Robinson Crusoe (Robinson Crusoe #1),Daniel Defoe/Virginia Woolf,6/12/2001,320
+Robinson Crusoe,Daniel Defoe/John J. Richetti,3/27/2003,286
+Robinson Crusoe,Daniel Defoe/Michael Shinagel,12/19/1994,436
+Robinson Crusoe,Daniel Defoe/Avi,7/1/2001,482
+Robinson Crusoe,Daniel Defoe,7/14/2006,288
+A General History of the Pyrates,Daniel Defoe/Manuel Schonhorn/Charles   Johnson,1/26/1999,733
+Huck Finn & Tom Sawyer among the Indians & Other Unfinished Stories (Mark Twain Library),Mark Twain/Paul Baender/Dahlia Armon/Walter Blair,3/15/2003,389
+Huck Finn and Tom Sawyer Among the Indians,Mark Twain/Lee Nelson,4/22/2003,277
+Huck Finn/Pudd'nhead Wilson/No 44 Mysterious Stranger other Writings,Mark Twain/Guy Cardwell/Louis J. Budd,8/1/2000,808
+The Adventures of Huckleberry Finn (Adventures of Tom and Huck  #2),Mark Twain/Guy Cardwell/John Seelye/Walter Trier,12/31/2002,327
+Adventures of Huckleberry Finn,Mark Twain/E.W. Kemble,5/6/2005,368
+Adventures of Huckleberry Finn,Mark Twain/George Saunders,8/14/2001,244
+The Annotated Huckleberry Finn,Mark Twain/Michael Patrick Hearn/E.W. Kemble,10/17/2001,656
+The Wit and Wisdom of Mark Twain,Mark Twain,12/23/1998,64
+Mark Twain's Helpful Hints for Good Living: A Handbook for the Damned Human Race,Mark Twain/Lin Salamo/Victor Fischer/Michael B. Frank,10/18/2004,221
+The Complete Short Stories of Mark Twain,Mark Twain/Charles Neider,3/1/1984,848
+The Autobiography of Mark Twain,Mark Twain/Charles Neider,11/28/2000,508
+Collected Tales  Sketches  Speeches  & Essays 1891–1910,Mark Twain/Louis J. Budd,10/15/1992,1050
+Lost Horizon,James Hilton,6/15/2004,241
+Louisa May Alcott's Christmas Treasury,Louisa May Alcott/C. Michael Dudash/Stephen W. Hines,6/1/2002,282
+My Secret Garden: Women's Sexual Fantasies,Nancy Friday,10/28/2003,361
+The Secret Garden,Frances Hodgson Burnett,9/1/1998,331
+The Secret Garden,Frances Hodgson Burnett/Sandra M. Gilbert,7/1/2003,281
+The Secret Garden,Martha Hailey DuBose/Frances Hodgson Burnett/Lucy Corvino/Arthur Pober,3/1/2005,160
+The Secret Garden,Frances Hodgson Burnett/Alison Lurie,1/30/2003,288
+A Little Princess,Frances Hodgson Burnett/Nancy Bond,2/26/2002,242
+Waiting for the Party: The Life of Frances Hodgson Burnett  1849-1924,Ann Thwaite,9/1/1994,274
+The Secret Garden Cookbook: Recipes Inspired by Frances Hodgson Burnett's The Secret Garden,Amy Cotler/Frances Hodgson Burnett/Prudence See,3/19/1999,128
+Basic Economics: A Citizen's Guide to the Economy,Thomas Sowell,12/24/2003,448
+Basic Economics: A Common Sense Guide to the Economy,Thomas Sowell,4/3/2007,627
+Black Rednecks and White Liberals,Thomas Sowell,6/1/2005,372
+Applied Economics: Thinking Beyond Stage One,Thomas Sowell,11/13/2003,256
+Knowledge And Decisions,Thomas Sowell,10/4/1996,422
+A Conflict of Visions: Ideological Origins of Political Struggles,Thomas Sowell,1/3/2002,304
+Sir Gawain and the Green Knight,Selina Shirley Hastings/Juan Wijngaard,6/27/1991,29
+Alcoholics Anonymous,Alcoholics Anonymous,8/1/1993,250
+Alcoholics Anonymous,Alcoholics Anonymous,2/10/2002,576
+The Twelve Steps & Twelve Traditions of Overeaters Anonymous,Overeaters Anonymous,1/1/1993,221
+The Natural Way to Draw,Kimon Nicolaides/Mamie Harmon,2/1/1990,240
+Natural Health  Natural Medicine,Andrew Weil,12/9/2004,448
+The Fixer,Bernard Malamud/Jonathan Safran Foer,5/5/2004,335
+The Complete Stories,Bernard Malamud/Robert Giroux,10/12/1998,656
+The Assistant,Bernard Malamud/Jonathan Rosen,7/7/2003,246
+Conversations with Bernard Malamud (Literary Conversations),Lawrence M. Lasher,3/1/1991,184
+The Tenants,Bernard Malamud/Aleksandar Hemon,9/18/2003,248
+Enchanted April: Acting Edition,Matthew Barber/Elizabeth von Arnim,4/7/2004,73
+April  May und June,Elizabeth von Arnim,4/1/1995,88
+A Room with a View,E.M. Forster,1/1/2005,119
+A Room with a View / Howards End,E.M. Forster/Benjamin DeMott,2/4/1986,449
+E.M. Forster: Critical Guidebook,Lionel Trilling/E.M. Forster,1/17/1971,208
+The Longest Journey,E.M. Forster/Gilbert Adair/Elizabeth Heine,7/27/2006,396
+Howards End,E.M. Forster,10/29/2002,246
+Maurice,E.M. Forster,12/17/2005,256
+E. M. Forster: A Life,P.N. Furbank,5/2/1994,648
+Howards End,E.M. Forster,9/28/2000,352
+The Sixteen Pleasures,Robert Hellenga,5/1/1995,384
+Revolutionary Characters: What Made the Founders Different,Gordon S. Wood,5/18/2006,336
+The Rescue (Kidnapped  #3),Gordon Korman,9/1/2006,140
+Hunting the Hunter (On the Run  #6),Gordon Korman,2/1/2006,151
+Public Enemies (On The Run  #5),Gordon Korman,12/1/2005,150
+Runaway Bride,Deborah  Gordon,9/28/1994,390
+The Bridge over the Drina,Ivo Andrić/William H. McNeill,4/5/1995,314
+Drina Dances in Paris,Jean Estoril,4/1/1991,194
+Drina Ballerina,Jean Estoril,1/17/1991,188
+Le Pont sur la Drina,Ivo Andrić/Pascale Delpech,7/5/1999,384
+Drina Dances in Italy,Jean Estoril,8/31/1992,191
+Drina Goes on Tour,Jean Estoril/Mabel Esther Allan,10/20/1991,188
+Drina Dances in Madeira,Jean Estoril/Mabel Esther Allan,2/6/1991,164
+Phaedrus/Apology/Crito/Symposium,Plato/Benjamin Jowett,1/1/2006,144
+The Dialogues of Plato  Volume 1: Euthyphro  Apology  Crito  Meno  Gorgias  Menexenus,Plato/Reginald E. Allen,9/10/1989,352
+Gorgias/Timaeus,Plato/Benjamin Jowett,7/15/2003,256
+Minor Works: On Colours/On Things Heard/Physiognomics/On Plants/On Marvellous Things Heard/Mechanical Problems/On Indivisible Lines/The...Gorgias,Aristotle/W.S. Hett,6/28/1963,528
+Aristophanes I: Clouds/Wasps/Birds,Aristophanes/Peter Meineck/Ian C. Storey,9/1/1998,480
+The Trojan Women,Euripides/Gilbert Murray,1/1/2006,80
+Greek Tragedies  Volume 2,David Grene/Richmond Lattimore/Aeschylus/Sophocles/Euripides,2/15/1960,304
+Moloka'i (Moloka'i #1),Alan Brennert,10/4/2004,405
+Teaching with the Brain in Mind,Eric Jensen,6/15/2005,186
+Introducing Mind and Brain (Introducing...),Angus Gellatly/Oscar Zárate/Richard Appignanesi,5/10/2001,176
+Eva Luna,Isabel Allende/Margaret Sayers Peden,8/30/2005,320
+The Stories of Eva Luna,Isabel Allende,11/13/2001,352
+Diez Cuentos de Eva Luna Con Guia de Comprension y Repaso de Gramatica,Isabel Allende/Richard D. Woods/Kenneth M. Taggart,12/1/1994,256
+El bosque de los pigmeos,Isabel Allende,9/6/2005,304
+Inés of My Soul,Isabel Allende/Margaret Sayers Peden,11/7/2006,321
+La casa de los espíritus,Isabel Allende,9/18/2001,454
+El plan infinito,Isabel Allende,5/14/2002,336
+El reino del dragón de oro,Isabel Allende,9/7/2004,432
+City of the Beasts (Eagle and Jaguar  #1),Isabel Allende/Margaret Sayers Peden,4/27/2004,408
+Self,Yann Martel,4/7/2003,331
+Die Brücke über die Drina,Ivo Andrić/Ernst E. Jonas,3/1/2003,407
+Drina Dances in Switzerland,Jean Estoril/Jenny Sanders,8/23/1993,188
+The Story of Salt,Mark Kurlansky/S.D. Schindler,9/7/2006,48
+Nonviolence: Twenty-Five Lessons from the History of a Dangerous Idea,Mark Kurlansky/Dalai Lama XIV,9/12/2006,203
+Boogaloo on 2nd Avenue,Mark Kurlansky,2/28/2006,319
+Cod: A Biography of the Fish That Changed the World,Mark Kurlansky,7/1/1998,294
+1968: The Year That Rocked the World,Mark Kurlansky,1/11/2005,480
+A Chosen Few: The Resurrection of European Jewry (Reader's Circle),Mark Kurlansky,3/26/2002,456
+The Basque History of the World: The Story of a Nation,Mark Kurlansky,2/1/2001,400
+The Cod's Tale,Mark Kurlansky/S.D. Schindler,9/10/2001,48
+Open City 6: The Only Woman He Ever Left,Open City Magazine/James Purdy/Daniel Pinchbeck/Michael Cunningham/Deborah Garrison/Rem Koolhaas/Rick Moody/Strawberry Saroyan/Debra Garrison,10/13/2000,200
+Harry Potter Y La Piedra Filosofal (Harry Potter  #1),J.K. Rowling,3/6/2001,254
+Angle of Repose,Wallace Stegner/Jackson J. Benson,12/1/2000,557
+Don't Make Me Think: A Common Sense Approach to Web Usability,Steve Krug,8/28/2005,201
+Girlfriend in a Coma,Douglas Coupland,3/1/1999,288
+Corelli's Mandolin,Louis de Bernières,8/29/1995,437
+Kiffe Kiffe Tomorrow,Faïza Guène/Sarah    Adams,7/3/2006,179
+Our Kind of People: Inside America's Black Upper Class,Lawrence Otis Graham,12/22/1999,406
+The Senator and the Socialite: The True Story of America's First Black Dynasty,Lawrence Otis Graham,6/27/2006,480
+Temptations,Otis Williams/Patricia Romanowski,6/25/2002,304
+The Thorn Birds,Colleen McCullough,9/6/2005,673
+Caesar (Masters of Rome  #5),Colleen McCullough,1/28/2003,928
+Caesar's Women (Masters of Rome  #4),Colleen McCullough,2/1/1997,943
+On  Off (Carmine Delmonico  #1),Colleen McCullough,5/23/2006,372
+Three Complete Novels: Tim/An Indecent Obsession/The Ladies of Missalonghi,Colleen McCullough,2/14/1999,768
+Morgan's Run,Colleen McCullough,1/1/2002,848
+The October Horse: A Novel of Caesar and Cleopatra (Masters of Rome  #6),Colleen McCullough,10/28/2003,1110
+The First Man in Rome (Masters of Rome  #1),Colleen McCullough,9/28/1990,896
+The Grass Crown (Masters of Rome  #2),Colleen McCullough,7/1/1992,1104
+Tim,Colleen McCullough,11/1/1990,288
+O'Brien's the Things They Carried,Jill Colella/CliffsNotes,12/14/2000,128
+The Five People You Meet in Heaven,Mitch Albom,9/23/2003,196
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,4/15/2004,272
+The Curious Incident of the Dog In the Night-time,Mark Haddon,4/1/2004,268
+The Curious Incident of the Dog in the Night-time,Mark Haddon,3/28/2006,240
+Northern Lights,Tim O'Brien,9/1/1999,372
+If I Die in a Combat Zone  Box Me Up and Ship Me Home,Tim O'Brien,9/1/1999,225
+Going After Cacciato,Tim O'Brien,9/1/1999,351
+In the Lake of the Woods,Tim O'Brien,9/1/2006,303
+The Nuclear Age,Tim O'Brien,12/1/1996,320
+The Rescue,Nicholas Sparks,4/1/2005,352
+A Bend in the Road,Nicholas Sparks,4/1/2005,341
+True Believer (Jeremy Marsh & Lexie Darnell  #1),Nicholas Sparks,4/11/2006,465
+Three Weeks With My Brother,Nicholas Sparks/Micah Sparks,1/3/2006,368
+The Wedding (The Notebook  #2),Nicholas Sparks,8/1/2005,276
+El Guardián,Nicholas Sparks/Ramón González Férriz,4/1/2005,444
+Nights in Rodanthe,Nicholas Sparks,8/1/2004,212
+Message in a Bottle,Nicholas Sparks,2/1/1999,370
+A Walk to Remember,Nicholas Sparks,9/1/2004,240
+Icy Sparks,Gwyn Hyman Rubio,3/8/2001,320
+Message in a Bottle,Nicholas Sparks,12/1/1999,342
+Sugarplums and Scandal  (Love at Stake #2.5; Bed-and-Breakfast Mysteries #22.5),Lori Avocato/Dana Cameron/Mary Dahiem/Suzanne Macpherson/Cait London/Kerrelyn Sparks/Mary Daheim,10/31/2006,327
+Special Topics in Calamity Physics,Marisha Pessl,8/3/2006,514
+The Dictionary of Corporate Bullshit: An A to Z Lexicon of Empty  Enraging  and Just Plain Stupid Office Talk,Lois Beckwith,2/14/2006,192
+On Truth,Harry G. Frankfurt/Baruch Spinoza,10/31/2006,112
+Twelve Sharp (Stephanie Plum  #12),Janet Evanovich,6/20/2006,310
+Sharp Edges,Jayne Ann Krentz,7/27/2004,368
+Mrs. Sharp's Traditions: Reviving Victorian Family Celebrations of Comfort & Joy,Sarah Ban Breathnach,12/31/2001,256
+The Sly Spy (Olivia Sharp  Agent for Secrets #3),Marjorie Weinman Sharmat/Mitchell Sharmat/Denise Brunkus,6/14/2005,74
+The Green Toenails Gang (Olivia Sharp  Agent for Secrets #4),Marjorie Weinman Sharmat/Mitchell Sharmat/Denise Brunkus,7/12/2005,72
+The Pizza Monster (Olivia Sharp  Agent for Secrets #1),Marjorie Weinman Sharmat/Mitchell Sharmat/Denise Brunkus,5/10/2005,80
+The Spy Who Barked (Adam Sharp #1),George E. Stanley,4/9/2002,48
+Kare First Love  Vol. 9 (Kare First Love  #9),Kaho Miyasaka,9/12/2006,208
+The World's First Love: Mary  Mother of God,Fulton J. Sheen,9/1/1996,276
+Kare First Love  Vol. 10 (Kare First Love  #10),Kaho Miyasaka,12/12/2006,208
+The Tutor's First Love,George MacDonald/Michael R. Phillips,7/1/2000,238
+First Love,Ivan Turgenev/Constance Garnett,9/1/2004,124
+Love @ First Site,Jane Moore,5/9/2006,368
+First Love  Second Chance,Amanda Clark,2/22/1995,304
+The Modern Prince: Charles J. Haughey and the Quest for Power,Justin   O'Brien,4/28/2003,212
+The Modern Prince and Other Writings,Antonio Gramsci,10/1/1959,192
+Emily of New Moon (Emily  #1),L.M. Montgomery,4/1/1983,339
+The Selected Journals Of L.M. Montgomery  Vol. 5: 1935-1942,L.M. Montgomery/Mary Henley Rubio/Elizabeth Hillman Waterston,11/4/2004,410
+Against the Odds: Tales of Achievement,L.M. Montgomery/Rea Wilmshurst,11/1/1994,246
+Anne of Avonlea,L.M. Montgomery/Susan O'Malley,12/1/1998,8
+A Tangled Web,L.M. Montgomery,8/1/1989,288
+The Complete Anne of Green Gables Boxed Set (Anne of Green Gables  #1-8),L.M. Montgomery,10/6/1998,2088
+Pat of Silver Bush (Pat  #1),L.M. Montgomery,6/1/1988,288
+Sherlock Holmes: The Complete Novels and Stories  Volume I,Arthur Conan Doyle,8/26/1986,1059
+The New Annotated Sherlock Holmes: The Complete Short Stories,Arthur Conan Doyle/Leslie S. Klinger,11/30/2004,1878
+The New Annotated Sherlock Holmes: The Novels,Arthur Conan Doyle/Leslie S. Klinger,11/7/2005,907
+The Science of Sherlock Holmes: From Baskerville Hall to the Valley of Fear  the Real Forensics Behind the Great Detective's Greatest Cases,E.J. Wagner,3/1/2006,244
+Sherlock Holmes: A Baker Street Dozen,Arthur Conan Doyle/John Gielgud/Ralph Richardson/Orson Welles,4/20/2006,6
+Sherlock Holmes: The Unauthorized Biography,Nick Rennison,10/11/2006,304
+Murder by Moonlight & Other Mysteries (New Adventures of Sherlock Holmes 19-24),NOT A BOOK,10/3/2006,0
+The Mysteries of Sherlock Holmes,Arthur Conan Doyle/Paul Bachem,10/15/1996,218
+The Complete Adventures and Memoirs of Sherlock Holmes,Arthur Conan Doyle,7/1/2001,334
+The Unfortunate Tobacconist & Other Mysteries (Sherlock Holmes 1-6),NOT A BOOK,10/1/2003,0
+Personal Finance For Dummies,Eric Tyson,10/1/2006,458
+Personal Finance for Dummies,Eric Tyson/Rich Tennant,8/1/2003,454
+Catching Alice,Clare Naylor,10/31/2000,328
+The Dream Giver,Bruce H. Wilkinson/David Kopp/Heather Harpham Kopp,9/3/2003,157
+The Giver (The Giver  #1),Lois Lowry,1/24/2006,208
+The Wish Giver: Three Tales of Coven Tree,Bill Brittain/Andrew Glass,4/2/2019,192
+Indian Givers: How the Indians of the Americas Transformed the World,Jack Weatherford,11/29/1989,288
+The Last Life,Claire Messud,9/28/2000,400
+The Hunters,Claire Messud,5/18/2003,200
+When the World Was Steady,Claire Messud,9/1/1995,270
+The Sea,John Banville,8/15/2006,195
+The Sea,John Banville,12/7/2005,195
+The Book of Evidence (The Freddie Montgomery Trilogy #1),John Banville,6/12/2001,220
+Athena (The Freddie Montgomery Trilogy #3),John Banville,5/28/1996,240
+Doctor Copernicus  (The Revolutions Trilogy #1),John Banville,10/12/1993,242
+Shroud (The Cleave Trilogy #2),John Banville,6/8/2004,257
+Ghosts,John Banville,12/17/1998,244
+On Beauty,Zadie Smith,8/29/2006,445
+A Great and Terrible Beauty (Gemma Doyle #1),Libba Bray,12/9/2003,403
+The Black Book of Hollywood Beauty Secrets,Kym Douglas/Cindy Pearlman,12/1/2006,224
+Black Beauty,Anna Sewell,3/1/2003,245
+Truth and Beauty,Ann Patchett,4/5/2005,257
+The Life of Graham Greene  Vol. 1: 1904-1939,Norman Sherry,9/7/2004,816
+Complete Short Stories,Graham Greene/Pico Iyer,2/1/2005,594
+The Power and the Glory,Graham Greene/John Updike,2/25/2003,222
+The Heart of the Matter,Graham Greene,10/7/2004,272
+Orient Express,Graham Greene/Christopher Hitchens,8/31/2004,197
+Journey Without Maps,Graham Greene/Paul Theroux,6/27/2006,272
+The Quiet American,Graham Greene/Robert  Stone,8/31/2004,180
+Collected Short Stories,Graham Greene,4/1/1993,368
+The Third Man & The Fallen Idol,Graham Greene,7/1/1992,157
+The Tenth Man,Graham Greene,2/1/1998,160
+The Autograph Man,Zadie Smith,6/17/2003,347
+White Teeth,Zadie Smith,6/12/2001,448
+Stranger than Fiction,Chuck Palahniuk,5/10/2005,233
+Great Short Works of Herman Melville,Herman Melville/Warner Berthoff,3/2/2004,512
+Selected Poems of Herman Melville,Herman Melville/Robert Penn Warren,9/10/2004,512
+Redburn / White-Jacket / Moby-Dick,Herman Melville/G. Thomas Tanselle,4/15/1983,1436
+Pierre / Israel Potter / The Piazza Tales / The Confidence-Man / Uncollected Prose / Billy Budd,Herman Melville/Harrison Hayford,4/1/1985,1478
+Redburn,Herman Melville/Harold Beaver,8/26/1976,448
+Typee / Omoo / Mardi,Herman Melville/G. Thomas Tanselle,5/6/1982,1333
+Harriet Spies Again (Harriet the Spy Adventures  #1),Helen Ericson,8/26/2003,256
+Harriet the Spy  Double Agent (Harriet the Spy Adventures),Maya Gold,9/13/2005,160
+Moonraker (James Bond  #3),Ian Fleming,12/31/2002,247
+Moonraker's Bride,Madeleine Brent,6/12/1978,319
+Dr No / Moonraker / Thunderball / From Russia with Love / On Her Majesty's Secret Service / Goldfinger,Ian Fleming,1/1/1984,862
+Casino Royale (James Bond  #1),Ian Fleming,8/27/2002,181
+Goldfinger (James Bond  #7),Ian Fleming,8/27/2002,264
+On Her Majesty's Secret Service (James Bond  #11),Ian Fleming,9/2/2003,326
+Octopussy & the Living Daylights (James Bond  #14),Ian Fleming,4/6/2004,120
+Book of Sketches,Jack Kerouac/George Condo,4/4/2006,432
+The Dharma Bums,Jack Kerouac,8/3/2000,204
+Book of Haikus,Jack Kerouac,3/2/2004,200
+The Subterraneans,Jack Kerouac,9/6/2007,192
+Ballet Shoes,Noel Streatfeild,12/23/2004,184
+Theater Shoes (Shoes  #4),Noel Streatfeild/Diane Goode,11/15/1994,272
+Movie Shoes (Shoes  #6),Noel Streatfeild,5/1/1984,239
+Party Shoes (Shoes  #5),Noel Streatfeild,9/1/2002,243
+Thursday's Child (Margaret Thursday  #1),Noel Streatfeild,12/1/1985,256
+Miss Happiness and Miss Flower,Rumer Godden/Gary Blythe,9/1/2006,104
+The River,Rumer Godden,4/16/2004,128
+The Dolls' House,Rumer Godden/Christian Birmingham,11/3/2006,153
+China Court: The Hours of a Country House,Rumer Godden,12/31/1993,358
+Rumer Godden,Anne Chisholm,6/11/1999,335
+The Corrections,Jonathan Franzen,9/2/2002,653
+Creative Correction: Extraordinary Ideas For Everyday Discipline,Lisa Whelchel/Stormie Omartian,3/31/2010,367
+Original Sin (Adam Dalgliesh #9),P.D. James,12/2/2005,511
+Original Sin: Illuminating the Riddle,Henri Blocher,10/2/2000,158
+An Original Sin,Nina Bangs,7/1/1999,394
+Aliens: Original Sin,Michael Jan Friedman,10/26/2005,256
+Death in Holy Orders (Adam Dalgliesh  #11),P.D. James/Christa Seibicke,3/26/2002,429
+The Lighthouse (Adam Dalgliesh #13),P.D. James,10/10/2006,383
+Unnatural Causes (Adam Dalgliesh #3),P.D. James,5/20/2002,218
+Death of an Expert Witness (Adam Dalgliesh #6),P.D. James,5/20/2002,306
+A Mind To Murder (Adam Dalgliesh  #2),P.D. James,5/20/2002,225
+A Taste for Death (Adam Dalgliesh  #7),P.D. James,11/8/2005,459
+Time To Be In Earnest: A Fragment Of Autobiography,P.D. James,2/27/2001,306
+Cover Her Face (Adam Dalgliesh #1),P.D. James,5/8/2001,250
+The Black Tower (Adam Dalgliesh #5),P.D. James,10/2/2001,352
+Innocent Blood,P.D. James,8/2/2001,400
+Don Quixote,Miguel de Cervantes Saavedra/Edith Grossman/Harold Bloom,4/26/2005,940
+Don Quixote,Miguel de Cervantes Saavedra/John Rutherford/Roberto González Echevarría,2/25/2003,1023
+Don Quixote,Miguel de Cervantes Saavedra/Walter Starkie,6/3/2003,544
+Don Quixote,Miguel de Cervantes Saavedra/Tobias Smollett/Carlos Fuentes,4/10/2001,1168
+Lectures on Don Quixote,Vladimir Nabokov/Fredson Bowers/Guy Davenport/Miguel de Cervantes Saavedra/Samuel Putnam,4/18/1984,240
+Cliffs Notes on Cervantes' Don Quixote,Marianne Sturman,7/8/1964,96
+Desert Heat (Joanna Brady  #1),J.A. Jance,9/1/2004,256
+Kentucky Heat,Fern Michaels,9/1/2002,383
+Heat Wave: A Social Autopsy of Disaster in Chicago,Eric Klinenberg,7/15/2003,320
+Texas Heat (Texas  #2),Fern Michaels,11/27/2001,496
+Primal Heat (Includes: Breeds  #8.5; Devlin Dynasty  #1; Moon Lust  #1),Lora Leigh/Sherri L. King/Lorie O'Clare/Jaci Burton,5/15/2004,196
+Heat and Dust,Ruth Prawer Jhabvala,4/16/1999,190
+Holy Cow: An Indian Adventure,Sarah Macdonald,4/13/2004,304
+Holy Cows and Hog Heaven: The Food Buyer's Guide to Farm Friendly Food,Joel Salatin/Michael Pollan,2/19/2005,134
+The History of Love,Nicole Krauss,5/17/2006,255
+A Brief History of Time,Stephen Hawking,9/1/1998,212
+A Short History of Nearly Everything,Bill Bryson,11/1/2005,624
+The Politically Incorrect Guide to American History,Thomas E. Woods Jr.,11/1/2004,270
+A History of the World in 6 Glasses,Tom Standage,5/16/2006,336
+A History of God: The 4 000-Year Quest of Judaism  Christianity  and Islam,Karen Armstrong,3/2/2004,460
+The Sun Also Rises,Ernest Hemingway/William Hurt,10/17/2006,8
+The Bon Appetit Cookbook,Barbara Fairchild,8/15/2006,816
+The Barefoot Contessa Cookbook,Ina Garten/Melanie Acevedo,4/6/1999,256
+Into a Paris Quartier: Reine Margot's Chapel and Other Haunts of St. Germain,Diane Johnson,5/1/2005,204
+Sylvia,Leonard Michaels/Diane Johnson,5/29/2007,129
+The Life Of Dashiell Hammett,Diane Johnson,1/23/1984,344
+Divorcio a la Francesa: Le Divorce,Diane Johnson/Carlos Milla Soler/Roberto Fernandez Sastre,6/1/2003,388
+London is the Best City in America,Laura Dave,5/18/2006,256
+Hyperion (Los Cantos de Hyperion  #1),Dan Simmons/Carlos Alberto Gardini,6/1/2005,618
+The Fall of Hyperion (Hyperion Cantos  #2),Dan Simmons,2/20/1992,632
+Supreme Power: Hyperion,J. Michael Straczynski/Dan Jurgens,7/19/2006,120
+Die Hyperion-Gesänge,Dan Simmons/Joachim Körber,8/1/2002,1456
+La Chute d'Hypérion II,Dan Simmons/Guy Abadia,12/26/2000,347
+Endymion,Dan Simmons/Guy Abadia,12/14/1998,572
+Olympos (Ilium  #2),Dan Simmons,7/25/2006,891
+Ilium (Ilium  #1),Dan Simmons,6/28/2005,752
+The Terror,Dan Simmons,1/8/2007,769
+Worlds Enough & Time: Five Tales of Speculative Fiction,Dan Simmons,11/26/2002,272
+Hard Freeze (Joe Kurtz  #2),Dan Simmons,9/15/2003,320
+Endymion (Hyperion Cantos  #3),Dan Simmons,12/1/1996,563
+A Winter Haunting (Seasons of Horror  #2),Dan Simmons,12/31/2002,371
+The Amazing Adventures of Kavalier & Clay,Michael Chabon,8/25/2001,639
+The Amazing Adventures of the Escapist: Volume 1,Michael Chabon/Glen David Gold/Bill Sienkiewicz/Howard Chaykin/Gene Colan/Steve Lieber/Eric Wight/Kevin  McCarthy,5/18/2004,159
+The Great House of God,Max Lucado,10/31/2001,240
+The Valkyries,Paulo Coelho/Alan R. Clarke,9/6/1999,243
+The Devil and Miss Prym (On the Seventh Day  #3),Paulo Coelho/Amanda Hopkinson/Nick Caistor,7/3/2006,205
+Nine Stories,J.D. Salinger,1/30/2001,198
+The Sun Rises: and Other Questions About Time and Seasons,Brenda Walpole,9/15/2006,32
+American Psycho,Bret Easton Ellis,4/21/2010,399
+Lunar Park,Bret Easton Ellis,8/29/2006,404
+The Burden of Proof (Kindle County Legal Thriller #2),Scott Turow,12/1/2000,608
+Godless,Pete Hautman,11/1/2005,208
+That Godless Court?: Supreme Court Decisions on Church-State Relationships,Ronald B. Flowers,9/2/2005,228
+Soul Mates: Honouring the Mysteries of Love and Relationship,Thomas  Moore,12/13/2013,288
+Soul Mates & Twin Flames: The Spiritual Dimension of Love & Relationships (Pocket Guide to Practical Spirituality),Elizabeth Clare Prophet,8/17/2017,155
+Hot Chocolate for the Mystical Lover: 101 True Stories of Soul Mates Brought Together by Divine Intervention,Arielle Ford/Deepak Chopra,1/1/2001,412
+Man's Search for Meaning,Viktor E. Frankl/Harold S. Kushner/William J. Winslade/Isle Lasch,6/1/2006,165
+Man's Search for Meaning,Viktor E. Frankl/Gordon W. Allport/Ilse Lasch,3/30/2000,165
+In Search of Memory: The Emergence of a New Science of Mind,Eric R. Kandel,2/1/2006,430
+Search Engine Optimization for Dummies,Peter Kent,5/1/2006,382
+The Pragmatic Programmer: From Journeyman to Master,Andy Hunt/Dave Thomas,10/30/1999,321
+Behind Closed Doors: Secrets of Great Management,Johanna Rothman/Esther Derby,9/26/2005,176
+Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,1/11/2005,278
+Blink 182,Anne Hoppus,12/1/2001,112
+I Blink: And Other Questions About My Body,Brigid Avison,4/25/2003,32
+The Great Good Thing (The Sylvie Cycle  #1),Roderick Townley,9/1/2003,224
+The Great Good Place: Cafes  Coffee Shops  Bookstores  Bars  Hair Salons  and Other Hangouts at the Heart of a Community,Ray Oldenburg,8/18/1999,384
+Built to Last: Successful Habits of Visionary Companies,James C. Collins/Jerry I. Porras,11/2/2004,368
+I Like You: Hospitality Under the Influence,Amy Sedaris,10/16/2006,304
+Children Playing Before a Statue of Hercules,David Sedaris/Richard Yates/Dorothy Parker/Joyce Carol Oates/Lorrie Moore/Flannery O'Connor/Amy Hempel/Akhil   Sharma/Tim Johnston/Tobias Wolff/Sarah Vowell/Charles Baxter/Jhumpa Lahiri/Katherine Mansfield/Alice Munro/Jean Thompson/Frank Gannon/Patricia Highsmith/Jincy Willett,8/1/2005,344
+Bringing Down The House,Ben Mezrich,5/6/2004,320
+Read for Your Life: 11 Ways to Better Yourself Through Books,Pat Williams/Peggy Matthews Rose,6/1/2007,311
+The Hip-Hop Church: Connecting with the Movement Shaping Our Culture,Efrem Smith/Phil   Jackson,12/15/2005,227
+The Final Season: Fathers  Sons  and One Last Season in a Classic American Ballpark,Tom Stanton,5/8/2002,256
+The Cold Six Thousand (Underworld USA #2),James Ellroy,6/11/2002,688
+White Teeth,Zadie Smith,1/25/2001,542
+White Teeth,Zadie Smith,6/1/2001,448
+White Teeth,Zadie Smith,11/30/2000,542
+Schiffbruch mit Zuschauer. Paradigma einer Daseinsmetapher,Hans Blumenberg,5/27/1997,106
+The Guide to Dan Brown's the Solomon Key,Greg  Taylor,9/30/2005,183
+The Da Vinci Code (Robert Langdon  #2),Dan Brown,3/28/2006,756
+Angels & Demons (Robert Langdon  #1),Dan Brown,5/3/2005,528
+The Illuminati,Larry Burkett,10/4/2004,352
+The Illuminati Papers,Robert Anton Wilson,12/11/1997,168
+The Da Vinci Code,Dan Brown,3/28/2006,489
+The Da Vinci Code (Robert Langdon  #2),Dan Brown/Paul Michael,3/28/2006,0
+El código Da Vinci (Robert Langdon  #2),Dan Brown/Juanjo Estrella,10/17/2003,557
+Truth and Fiction in The Da Vinci Code: A Historian Reveals What We Really Know about Jesus  Mary Magdalene & Constantine,Bart D. Ehrman,5/18/2006,207
+Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling,7/1/2008,480
+Housekeeping vs. the Dirt,Nick Hornby/Sarah Vowell/Jess Walter/Jennie Erdal/Joshua Ferris,9/13/2006,153
+The Polysyllabic Spree,Nick Hornby,11/30/2004,143
+Songbook,Nick Hornby,10/7/2003,207
+My Favorite Year: A Collection of Football Writing,Nick Hornby/D.J. Taylor/Huw Richards/Chris Pierson/Roddy Doyle/Harry Ritchie/Harry Pearson/Olly Wicken/Graham Brack/Matt Nation/Ed Horton/Don  Watson,8/1/2001,288
+Fever Pitch,Nick Hornby,3/1/1998,247
+High Fidelity,Nick Hornby,3/1/2000,323
+About a Boy,Nick Hornby,4/4/2002,278
+The Complete Polysyllabic Spree,Nick Hornby,9/7/2006,278
+Medicus (Gaius Petreius Ruso  #1),Ruth Downie,3/6/2007,386
+Middlesex Borough (Images of America: New Jersey),Middlesex Borough Heritage Committee,3/17/2003,128
+David Foster Wallace's Infinite Jest: A Reader's Guide,Stephen J. Burn,5/20/2003,96
+Scar Tissue,Anthony Kiedis,10/6/2004,465
+Monsieur Ibrahim et les fleurs du Coran,Éric-Emmanuel Schmitt,6/13/2001,85
+Zaat,Sonallah Ibrahim/صنع الله إبراهيم/Anthony Calderbank,3/15/2004,349
+Dreamland,Sarah Dessen,5/11/2004,250
+End Game (Dreamland  #8),Dale Brown/Jim DeFelice,10/31/2006,432
+H. P. Lovecraft's Dreamlands (Call of Cthulhu RPG),Chris  Williams/Sandy Petersen,2/2/2008,260
+Dreamland (Dreamland  #1),Dale Brown/Jim DeFelice,7/2/2001,375
+Satan's Tail (Dreamland  #7),Dale Brown/Jim DeFelice,7/26/2005,405
+The Zanzibar Chest,Aidan Hartley,8/3/2004,496
+Dispatches from the Edge: A Memoir of War  Disasters  and Survival,Anderson Cooper,5/23/2006,212
+Dispatches,Michael Herr,8/6/1991,260
+Dispatch,Bentley Little,10/4/2005,386
+Dispatches from the Tenth Circle: The Best of the Onion,Robert D. Siegel/Todd Hanson/Carol Kolb/The Onion,9/4/2001,174
+Hello! Is That Grandma?,Ian Whybrow/Deborah Allwright,5/7/2007,32
+How Much is That Guinea Pig in the Window?,Joanne Rocklin/Meredith Johnson,10/1/1995,48
+My War Gone By  I Miss It So,Anthony Loyd,2/1/2001,336
+Night Draws Near: Iraq's People in the Shadow of America's War,Anthony Shadid,9/5/2000,507
+Maximum City: Bombay Lost and Found,Suketu Mehta,9/27/2005,542
+Catfish and Mandala: A Two-Wheeled Voyage Through the Landscape and Memory of Vietnam,Andrew X. Pham,9/2/2000,344
+When Broken Glass Floats: Growing Up Under the Khmer Rouge,Chanrithy Him,4/17/2001,336
+First They Killed My Father: A Daughter of Cambodia Remembers,Loung Ung,4/4/2006,238
+Fahrenheit 451,Ray Bradbury/Christopher Hurt,11/1/2005,5
+Los funerales de la Mamá Grande,Gabriel García Márquez,2/7/2006,160
+Collected Novellas,Gabriel García Márquez/Gregory Rabassa/J.S. Bernstein,1/8/2008,288
+The Grapes of Wrath,John Steinbeck/Robert DeMott/Mick Wiggins,3/28/2006,464
+CliffsNotes on Steinbeck's The Grapes of Wrath,Kelly McGrath Vlcek/CliffsNotes/John Steinbeck,6/5/2000,112
+The Grapes of Wrath,John Steinbeck,3/1/2001,597
+American Gods,Neil Gaiman,6/1/2001,635
+American Gospel: God  the Founding Fathers  and the Making of a Nation,Jon Meacham,4/4/2006,399
+American Gods (American Gods  #1),Neil Gaiman,3/4/2005,635
+East of Eden,John Steinbeck,6/18/2002,601
+Eden in the East: The Drowned Continent of Southeast Asia,Stephen Oppenheimer,7/1/1999,575
+East Of Eden,John Steinbeck,1/1/1977,691
+Who Was John F. Kennedy?,Yona Zeldis McDonough/Nancy Harrison/Jill Weber,12/29/2004,112
+The Radical Right & the Murder of John F. Kennedy: Stunning Evidence in the Assassination of the President,Harrison Edward Livingstone,10/6/2004,615
+An Unfinished Life: John F. Kennedy  1917-1963,Robert Dallek,5/4/2004,849
+Sellevision,Augusten Burroughs,1/1/2006,229
+Dry,Augusten Burroughs,3/1/2005,295
+Running with Scissors,Augusten Burroughs,11/4/2006,320
+People of the Lie: The Hope for Healing Human Evil,M. Scott Peck,1/2/1998,272
+The Road Less Traveled: A New Psychology of Love  Traditional Values  and Spiritual Growth,M. Scott Peck,2/4/2003,318
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,1/1/2004,189
+A Prayer for Owen Meany,John Irving,6/4/2002,641
+Complications: A Surgeon's Notes on an Imperfect Science,Atul Gawande/Susanne Kuhlmann-Krieg,4/1/2003,270
+Sad Underwear and Other Complications: More Poems for Children and Their Parents,Judith Viorst/Richard  Hull,4/1/2000,80
+Bridget Jones: The Edge Of Reason (Bridget Jones #2),Helen Fielding,11/18/1999,422
+Bridget Jones's Guide to Life,Helen Fielding,4/1/2001,64
+Las luces de septiembre (Niebla  #3),Carlos Ruiz Zafón,10/1/2005,279
+A Framework for Understanding Poverty,Ruby K. Payne,2/9/2006,199
+El príncipe de la niebla (Trilogía de la Niebla  #1),Carlos Ruiz Zafón,11/21/2006,230
+The Shadow of the Wind,Carlos Ruiz Zafón/Lucia Graves,10/28/2004,403
+Ruby for Rails: Ruby Techniques for Rails Developers,David A. Black/David Heinemeier Hansson,5/11/2006,493
+About the B'nai Bagels,E.L. Konigsburg,3/1/1985,172
+The Far Side of Evil,Sylvia Engdahl,1/13/2005,324
+Enchantress from the Stars,Sylvia Engdahl/Lois Lowry,2/24/2003,304
+Everything Is Illuminated,Jonathan Safran Foer,8/23/2005,276
+Everything Is Illuminated,Jonathan Safran Foer,6/5/2003,276
+Extremely Loud and Incredibly Close,Jonathan Safran Foer,4/4/2006,326
+Genome: the Autobiography of a Species in 23 Chapters,Matt Ridley,5/30/2006,344
+Bioinformatics: Sequence and Genome Analysis,David W. Mount,8/16/2004,692
+The Genome War: How Craig Venter Tried to Capture the Code of Life and Save the World,James Shreeve,6/28/2005,392
+Carter Beats the Devil,Glen David Gold,9/18/2002,483
+Moo  Baa  La La La!,Sandra Boynton,9/6/2004,14
+Click  Clack  Moo: Cows That Type,Doreen Cronin/Betsy Lewin,6/1/2003,30
+Dooby Dooby Moo,Doreen Cronin/Betsy Lewin,8/8/2006,40
+Moo,Jane Smiley,6/1/1999,482
+Sailor Moo: Cow at Sea,Lisa Wheeler/Ponder Goembel,7/1/2002,32
+CliffsNotes on Heller's Catch-22,Charles A. Peek/CliffsNotes/Joseph Heller,12/31/1975,48
+Catch-22,Joseph Heller,10/6/1994,519
+Geisha,Liza Dalby,10/1/1998,367
+Does Anything Eat Wasps?: And 101 Other Unsettling  Witty Answers to Questions You Never Thought You Wanted to Ask,New Scientist/Mick O'Hare,4/5/2006,224
+Chronik eines angekündigten Todes,Gabriel García Márquez/Curt Meyer-Clason,8/1/2002,119
+The Complete Short Stories of Ernest Hemingway,Ernest Hemingway/John Hemingway/Patrick Hemingway/Gregory H. Hemingway/Charles Scribner Jr.,8/3/1998,650
+Hemingway & Bailey's Bartending Guide to Great American Writers,Mark Bailey/Edward Hemingway,10/13/2006,97
+For Whom The Bell Tolls,Ernest Hemingway,5/5/2005,490
+A Moveable Feast,Ernest Hemingway,9/6/2012,192
+Islands in the Stream,Ernest Hemingway,7/22/2003,448
+Berlin Blues,Sven Regener/John Brownjohn,11/4/2004,247
+The Short Stories,Ernest Hemingway,7/25/2002,464
+Hemingway's Cats: An Illustrated Biography,Carlene Fredericka Brennen/Hilary Hemingway,1/1/2005,185
+The Ernest Hemingway Audio Collection,Ernest Hemingway/Charlton Heston,5/8/2001,4
+Until I Find You,John Irving,8/1/2006,928
+The Imaginary Girlfriend,John Irving,12/3/2002,208
+The Fourth Hand,John Irving,4/29/2003,368
+The Water-Method Man,John Irving,6/23/1997,272
+Setting Free the Bears,John Irving,6/23/1997,304
+The 158-Pound Marriage,John Irving,6/23/1997,176
+The Short Stories,F. Scott Fitzgerald/Matthew J. Bruccoli,4/15/1998,800
+A Life in Letters,F. Scott Fitzgerald/Matthew J. Bruccoli,5/3/1995,528
+On Authorship,F. Scott Fitzgerald/Matthew J. Bruccoli/Judith S. Baughman,9/1/1996,203
+The St. Paul Stories of F. Scott Fitzgerald,F. Scott Fitzgerald/Dave Page/Patricia Hampl,9/24/2004,328
+Tender is the Night,F. Scott Fitzgerald/Arnold Goldman/Richard Godden,6/28/2001,400
+The Great Gatsby,Kathleen Parkinson/F. Scott Fitzgerald,11/25/2003,144
+The Great Gatsby,F. Scott Fitzgerald/Tim Robbins,10/1/2002,6
+The Great Gatsby,F. Scott Fitzgerald/Alexander Scourby,3/13/2002,4
+Cliffs Notes on Fitzgerald's the Great Gatsby,Kate Maurer/F. Scott Fitzgerald/CliffsNotes,6/5/2000,96
+The Great Gatsby,F. Scott Fitzgerald,1/13/1994,188
+Limitations (Kindle County Legal Thriller #7),Scott Turow,11/14/2006,208
+Reversible Errors (Kindle County Legal Thriller #6),Scott Turow,11/1/2003,553
+The Laws Of Our Fathers (Kindle County Legal Thriller #4),Scott Turow,9/1/1997,817
+Personal Injuries (Kindle County Legal Thriller #5),Scott Turow,12/1/2000,528
+One L: The Turbulent True Story of a First Year at Harvard Law School,Scott Turow,9/1/1997,288
+Ultimate Punishment,Scott Turow,8/1/2004,176
+The Physician (Cole Family Trilogy  #1),Noah Gordon,7/1/2001,720
+Matters of Choice (Cole Family Trilogy  #3),Noah Gordon/Mirjana Cvekić/Ljiljana Cvekić,5/1/1997,448
+The Rabbi,Noah Gordon,8/12/1987,448
+The Last Jew,Noah Gordon/Mirjana Cvekić/Ljiljana Cvekić,8/15/2000,352
+The Frequencies,Noah Eli Gordon,1/1/2003,81
+Chamán (Familia Cole  #2),Noah Gordon/Elsa Mateo,6/30/2006,768
+The Talking Horse and the Sad Girl and the Village Under the Sea: Poems,Mark Haddon,4/11/2006,60
+Ocean Star Express,Mark Haddon/Peter   Sutton,7/1/2002,32
+The Damned and the Beautiful: American Youth in the 1920's,Paula S. Fass,2/19/1978,520
+This Side of Paradise (Paradise  #1),Steven L. Layne,3/31/2005,224
+Trimalchio,F. Scott Fitzgerald/James L.W. West III,4/25/2002,214
+Souvenir of Canada 2,Douglas Coupland,5/10/2004,144
+Souvenir of Canada,Douglas Coupland,7/1/2002,144
+The Illustrated Art of War,Sun Tzu/Samuel B. Griffith,10/15/2005,272
+World War 3 Illustrated: Confrontational Comics,Scott   Cunningham/Peter Kuper/Seth Tobocman/Sabrina Jones,10/17/1995,256
+Master Index: An Illustrated Guide,Time-Life Books,9/1/1993,175
+A New Hope: The Illustrated Screenplay (Star Wars  Episode IV),George Lucas,3/24/1998,166
+Soul of the Sword: An Illustrated History of Weaponry and Warfare from Prehistory to the Present,Robert L. O'Connell/John    Batchelor,8/27/2002,400
+Star Wars Episode 1: The Phantom Menace Illustrated Screenplay,George Lucas,4/21/1999,150
+Warfare in the Classical World: An Illustrated Encyclopedia of Weapons  Warriors  and Warfare in the Ancient Civilizations of Greece and Rome,John Warry/Phillip de ste. Croix,10/15/1995,224
+The Winter of Our Discontent,John Steinbeck/Susan Shillinglaw,8/26/2008,336
+Cannery Row,John Steinbeck,2/5/2002,181
+The Grapes of Wrath and Other Writings 1936–1941: The Long Valley / The Grapes of Wrath / The Log from the Sea of Cortez / The Harvest Gypsies,John Steinbeck/Elaine Steinbeck/Robert DeMott,9/1/1996,1088
+Tortilla Flat,John Steinbeck,9/7/2000,154
+The Log from the Sea of Cortez,John Steinbeck/Richard Astro,1/18/2001,288
+The Illustrated Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time,Dava Sobel/William J.H. Andrewes/William J. H. Andrewes,10/1/2003,224
+Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time,Dava Sobel/Neil Armstrong,10/1/2005,192
+Latitude and Longitude (Rookie Read-About Geography),Rebecca Aberg/Jeanne Clidas,9/1/2003,32
+The Quest for Longitude: The Proceedings of the Longitude Symposium  Harvard University  Cambridge  Massachusetts  November 4-6  1993,William Andrewes,10/1/1996,437
+1421: The Year China Discovered America,Gavin Menzies,1/1/2004,650
+Dr. Desirable,Kristi Gold,1/25/2002,192
+Mayflower: A Story of Courage  Community  and War,Nathaniel Philbrick,5/9/2006,461
+Before the Mayflower: A History of Black America,Lerone Bennett Jr.,10/23/2003,796
+Before The Mayflower A History of Black America,Lerone Bennett Jr.,5/1/1984,70
+Shalimar the Clown,Salman Rushdie,10/10/2006,398
+Midnight's Children,Salman Rushdie,4/8/1982,463
+Haroun and the Sea of Stories (Khalifa Brothers  #1),Salman Rushdie/Paul Birkbeck,8/27/1999,224
+Fury,Salman Rushdie,9/5/2002,272
+Code Complete,Steve McConnell,6/19/2004,914
+Dale Carnegie's Lifetime Plan for Success: How to Win Friends and Influence People & How to Stop Worrying and Start Living,Dale Carnegie,6/15/1998,538
+How to Stop Worrying and Start Living,Dale Carnegie,10/5/2004,358
+How To Enjoy Your Life And Your Job,Dale Carnegie/Dorothy Carnegie,1/2/1990,224
+The Leader In You: How to Win Friends  Influence People and Succeed in a Changing World,Dale Carnegie/Stuart R. Levine/Michael A. Crom,5/1/1995,256
+The Drama of the Gifted Child: The Search for the True Self,Alice   Miller/Ruth Ward,7/22/2008,144
+The Drama of the Gifted Child: The Search for the True Self,Alice   Miller,6/1/1983,118
+Who Moved My Cheese?,Spencer Johnson/Kenneth H. Blanchard,2/7/2002,96
+Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant,W. Chan Kim/Renée Mauborgne,2/1/2005,240
+Heart of Darkness,Joseph Conrad,10/1/2003,188
+Heart of Darkness and Other Tales,Joseph Conrad/Cedric Watts,9/25/2003,225
+Heart of Darkness,Joseph Conrad,5/1/2003,132
+Teacher Man (Frank McCourt  #3),Frank McCourt,9/19/2006,272
+Angela's Ashes,Frank McCourt,12/17/1998,224
+Three Men in a Boat (Three Men  #1),Jerome K. Jerome,10/1/1994,185
+Three Men in a Boat: To Say Nothing of the Dog,Jerome K. Jerome,6/16/2006,144
+Three Men in a Boat: To Say Nothing of the Dog,Jerome K. Jerome,3/1/2005,272
+Three Men in a Boat,Jerome K. Jerome,3/25/2004,178
+Three Men in a Boat and Three Men on the Bummel,Jerome K. Jerome/Jeremy Lewis,11/25/1999,400
+Kafka on the Shore,Haruki Murakami/Philip Gabriel,1/3/2006,467
+The Brothers Karamazov,Fyodor Dostoyevsky/Constance Garnett/Manuel Komroff/John Bayley,6/1/1999,736
+The Brothers Karamazov,Fyodor Dostoyevsky/Fyodor Dostoevsky/Richard Pevear/Larissa Volokhonsky,6/14/2002,796
+The Brothers Karamazov,Fyodor Dostoyevsky/David McDuff,2/27/2003,1013
+The Brothers Karamazov,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,9/3/1991,796
+The Brothers Karamazov,Fyodor Dostoyevsky/Simon Vance/Thomas R. Beyer Jr.,5/1/2005,16
+The Brothers Karamazov,Fyodor Dostoyevsky/Constance Garnett/Maire Jaanus,7/25/2004,720
+CliffsNotes on Dostoevsky's The Brothers Karamazov,James Lamar Roberts/Gary Carey,1/10/2003,96
+Hungry Planet,Peter Menzel/Faith D'Aluisio,10/1/2005,288
+The Very Hungry Caterpillar,Eric Carle,3/23/1994,13
+The Little Mouse  the Red Ripe Strawberry and the Big Hungry Bear,Don    Wood,9/1/1996,32
+One Hundred Hungry Ants,Elinor J. Pinczes/Bonnie Mackain,9/27/1999,32
+The Hungry Tide,Amitav Ghosh,6/7/2006,333
+Feeding the Hungry Heart: The Experience of Compulsive Eating,Geneen Roth,9/1/1993,224
+What Is the What,Dave Eggers,10/18/2006,475
+A Heartbreaking Work of Staggering Genius,Dave Eggers,2/13/2001,485
+You Shall Know Our Velocity!,Dave Eggers,7/1/2003,401
+How We Are Hungry,Dave Eggers,10/11/2005,224
+How We Are Hungry: Stories,Dave Eggers,10/13/2004,218
+Merry Christmas  Stinky Face,Lisa McCourt/Cyd Moore,10/1/2004,32
+Love You Until--,Lisa McCourt/Cyd Moore,12/3/2005,32
+Year of Wonders,Geraldine Brooks,4/30/2002,358
+The Wonder Years: Helping Your Baby and Young Child Successfully Negotiate the Major Developmental Milestones,Tanya Remer Altmann/American Academy of Pediatrics,9/26/2006,224
+Wolves of the Calla (The Dark Tower  #5),Stephen King/Bernie Wrightson,2/1/2006,931
+A Man Without a Country,Kurt Vonnegut Jr./Daniel Simon,1/16/2007,160
+Slaughterhouse-Five,Kurt Vonnegut Jr.,1/12/1999,275
+Kurt Vonnegut's Cat's Cradle (Modern Critical Interpretations),Harold Bloom/Terry Southern/David H. Goldsmith/James Lundquist/Lawrence R. Broer/Peter J. Reed/Loree Rackstraw/William S. Doxey/Jerome Klinkowitz/Richard Giannone/John L. Simons/Leonard Mustazza/Zoltan Ab di-Nagy/Peter Freese/Wendy B. Faris,12/19/2002,258
+God Bless You  Dr. Kevorkian,Kurt Vonnegut Jr.,5/22/2001,80
+Jailbird,Kurt Vonnegut Jr.,1/12/1999,310
+Fates Worse Than Death,Kurt Vonnegut Jr.,9/1/1992,240
+The Red Tent,Anita Diamant,11/1/2005,336
+Inside the Red Tent,Sandra Hack Polaski,7/1/2006,100
+Anita Diamant's The Red Tent: A Reader's Guide,Ann Finding,9/7/2004,88
+La Jeune fille à la perle,Tracy Chevalier/Marie-Odile Fortier-Masek,3/16/2002,313
+Iron Kingdom: The Rise and Downfall of Prussia  1600–1947,Christopher   Clark,9/29/2006,776
+Downfall (Dragonlance: Dhamon Saga  #1),Jean Rabe,3/1/2001,397
+Berlin: The Downfall  1945,Antony Beevor,1/1/2002,489
+El azul de la virgen,Tracy Chevalier,10/1/2004,411
+Saturday,Ian McEwan,4/11/2006,289
+I Love Saturdays y domingos,Alma Flor Ada/Elivia Savadier,9/1/2004,32
+A Dangerous Fortune,Ken Follett,2/19/1999,596
+The Man From St. Petersburg,Ken Follett,6/3/2003,320
+Night Over Water,Ken Follett,4/6/2004,448
+The Truth about the Drug Companies: How They Deceive Us and What to Do about It,Marcia Angell,8/9/2005,319
+La verdad acerca de las Industrias Farmacéuticas: cómo nos engaña y qué hacer al respecto,Marcia Angell,12/1/2006,324
+Jackdaws,Ken Follett,12/5/2006,416
+Whiteout,Ken Follett/David Tennant,9/1/2006,4
+Jackdaws,Ken Follett,11/26/2002,496
+Battle Angel Alita - Last Order : Angel's Vision  Vol. 08,Yukito Kishiro,12/12/2006,208
+Battle Angel Alita - Last Order : Guilty Angel  Vol. 07,Yukito Kishiro,6/13/2006,208
+Gunnm Last Order  Tome 01,Yukito Kishiro,11/27/2002,200
+Your Inner Physician and You: CranioSacral Therapy and SomatoEmotional Release,John E. Upledger,9/4/1997,240
+My Life in France,Julia Child/Alex Prud'Homme,4/4/2006,336
+A Short History of Nearly Everything (Illustrated Edition),Bill Bryson,10/5/2010,624
+The Drawing of the Three (The Dark Tower  #2),Stephen King,8/5/2003,463
+The Handmaid's Tale,Margaret Atwood/Valerie Martin,10/17/2006,350
+The Handmaid's Tale,Margaret Atwood,9/1/2009,308
+The Catcher in the Rye,J.D. Salinger,1/30/2001,277
+The Catcher in the Rye - Barron's Book Notes,Barron's,10/1/1984,120
+Franny and Zooey,J.D. Salinger,1/30/2001,201
+Raise High the Roof Beam  Carpenters & Seymour: An Introduction,J.D. Salinger,1/30/2001,256
+The Doors of Perception & Heaven and Hell,Aldous Huxley,5/4/2004,187
+Brave New World,Aldous Huxley,9/1/1998,288
+Island,Aldous Huxley,7/30/2002,354
+The Perennial Philosophy,Aldous Huxley,4/13/2004,336
+Huxley and God: Essays on Religious Experience,Aldous Huxley/Huston Smith/Jacqueline Hazard Bridgeman,3/1/2003,320
+Moksha: Writings on Psychedelics & the Visionary Experience,Aldous Huxley/Michael Horowitz/Cynthia Palmer,4/1/1999,304
+Point Counter Point,Aldous Huxley,10/1/1996,432
+After Many a Summer Dies the Swan,Aldous Huxley,1/1/1993,368
+The Flame Trees of Thika: Memories of an African Childhood,Elspeth Huxley,2/1/2000,281
+The Devil Wears Prada (The Devil Wears Prada  #1),Lauren Weisberger,5/30/2006,432
+Arundhati Roy's The God of Small Things: A Reader's Guide,Julie Mullaney,3/30/2002,96
+A Separate Peace,John Knowles/David Levithan,9/30/2003,208
+Black and Blue,Anna Quindlen,8/25/2010,288
+A Virtuous Woman,Kaye Gibbons,11/5/1997,165
+Here on Earth,Alice Hoffman,7/1/1999,336
+The Heart of a Woman,Maya Angelou,5/17/1997,288
+The Deep End of the Ocean (Cappadora Family  #1),Jacquelyn Mitchard,10/1/1999,464
+Cane River,Lalita Tademy,4/1/2002,522
+Where the Heart Is,Billie Letts,6/1/1998,376
+Oprah Winfrey,Katherine E. Krohn,1/1/2002,128
+Drowning Ruth,Christina Schwarz,7/31/2001,368
+Fall on Your Knees,Ann-Marie MacDonald,10/29/2002,672
+What Looks Like Crazy on an Ordinary Day (Idlewild  #1),Pearl Cleage,11/1/1998,244
+While I Was Gone,Sue Miller,5/12/2000,304
+Mother of Pearl,Melinda Haynes,6/1/2000,465
+Breath  Eyes  Memory,Edwidge Danticat,5/18/1998,234
+The Book of Ruth,Jane Hamilton,12/1/1989,328
+Open House,Elizabeth Berg,5/1/2001,272
+The Pilot's Wife,Anita Shreve,3/30/1999,304
+Tara Road,Maeve Binchy,7/18/2000,648
+A Lesson Before Dying,Ernest J. Gaines,9/28/1997,256
+Paradise,Toni Morrison,4/1/1999,318
+The Treasure Hunt: A Little Bill Book,Bill Cosby/Varnette P. Honeywood,9/1/1997,40
+She's Come Undone,Wally Lamb,6/28/1998,465
+We Were the Mulvaneys,Joyce Carol Oates,9/1/1997,454
+A Map of the World,Jane Hamilton/Frank  Muller/C.J. Critt,12/3/1999,400
+Daughter of Fortune,Isabel Allende/Margaret Sayers Peden,10/6/1999,399
+The Meanest Thing To Say,Bill Cosby/Varnette P. Honeywood/Varnette Hon Eywood,9/1/1997,40
+The Good Earth (House of Earth  #1),Pearl S. Buck,9/15/2004,357
+A Fine Balance,Rohinton Mistry,11/30/2001,603
+The Best Way to Play: A Little Bill Book,Bill Cosby/Varnette P. Honeywood/Varnette Honeywood,9/1/1997,40
+White Oleander,Janet Fitch,5/1/2000,480
+Cry  the Beloved Country,Alan Paton,11/1/2003,316
+One Hundred Years of Solitude,Gabriel García Márquez/Gregory Rabassa,1/20/2004,458
+Song of Solomon,Toni Morrison,9/1/1987,337
+One Hundred Years of Solitude,Gabriel García Márquez/Gregory Rabassa,2/1/2006,417
+The Bluest Eye,Toni Morrison,4/27/2000,216
+The Poisonwood Bible,Barbara Kingsolver,10/1/1999,546
+Vergeef me,Wally Lamb/Inge de Heer,7/1/2001,744
+The Crusader: Ronald Reagan and the Fall of Communism,Paul Kengor,10/17/2006,432
+Ronald Reagan: How an Ordinary Man Became an Extraordinary Leader,Dinesh D'Souza,2/23/1999,304
+Ethan Frome and Summer,Edith Wharton/Elizabeth Strout,5/8/2001,274
+Collected Stories  1891-1910,Edith Wharton/Maureen Howard,1/29/2001,928
+A Backward Glance,Edith Wharton/Louis Auchincloss,7/15/1998,385
+The Best Short Stories of Edith Wharton,Edith Wharton,4/16/2004,300
+Complete Works of Oscar Wilde,Oscar Wilde/Merlin Holland,8/4/2003,1270
+Oscar Wilde,Richard Ellmann,11/5/1988,736
+An Ideal Husband,Oscar Wilde,2/5/2001,78
+The Picture of Dorian Gray,Oscar Wilde/Jeffrey Eugenides,6/1/2004,272
+De Profundis and Other Writings,Oscar Wilde/Hesketh Pearson,8/26/1976,252
+Sense and Sensuality: Jesus Talks to Oscar Wilde on the Pursuit of Pleasure (Great Conversations),Ravi Zacharias,6/1/2006,94
+Travels with Charley: In Search of America,John Steinbeck,2/5/2002,214
+Novels and Stories 1932–1937: The Pastures of Heaven / To a God Unknown / Tortilla Flat / In Dubious Battle / Of Mice and Men,John Steinbeck/Elaine Steinbeck/Robert DeMott,9/1/1994,909
+The Pearl,John Steinbeck,1/8/2002,96
+The Life and Times of Scrooge McDuck,Don Rosa,6/1/2005,266
+The Life and Times of Scrooge McDuck Companion,Don Rosa,9/19/2006,208
+The Last Christmas of Ebenezer Scrooge,Marvin Kaye,9/1/2004,168
+Uncle Scrooge #359,Don Rosa/Carl Barks/Lars Jensen/Pat McGreal/Carol McGreal/Frank Jonker/Romano Scarpa/Mau Heymans/José Massaroli,11/7/2006,64
+A Christmas Story,Jean Shepherd,10/28/2003,144
+My First Story of Christmas,Tim Dowley/Roger Langton,9/1/2004,24
+The Christmas Story,Jane Werner Watson/Eloise Wilkin,8/1/2000,24
+A Christmas Carol,Charles Dickens/P.J. Lynch,9/12/2006,160
+A Christmas Carol,Charles Dickens,1/1/2012,112
+The Annotated Christmas Carol,Charles Dickens/Michael Patrick Hearn/John Leech,11/17/2004,266
+Charles Dickens' A Christmas Carol,Jane Parker Resnick/Christian Birmingham,10/11/2000,56
+Little Dorrit,Charles Dickens/Hablot Knight Browne/David Gates,3/12/2002,1347
+A Christmas Carol and Other Christmas Writings,Charles Dickens/Michael Slater,10/30/2003,288
+The Life of Our Lord: Written for His Children During the Years 1846 to 1849,Charles Dickens,11/9/1999,128
+Hard Times,Charles Dickens,10/19/2003,353
+The Innocent Man: Murder and Injustice in a Small Town,John Grisham,10/10/2006,360
+The Last Juror,John Grisham,4/25/2006,278
+The Testament,John Grisham/Jorma-Veikko Sappinen,12/28/1999,535
+The Rainmaker,John Grisham,9/27/2005,419
+The Partner,John Grisham,4/26/2005,416
+The Street Lawyer,John Grisham,4/26/2005,384
+The Summons,John Grisham,9/27/2005,384
+The Brethren,John Grisham,12/27/2005,384
+The King of Torts,John Grisham,12/27/2005,276
+Skipping Christmas,John Grisham,11/6/2004,198
+The Firm,Robin Waterfield/John Grisham,2/15/2000,76
+The Client,John Grisham,3/16/2010,483
+A Painted House,John Grisham,2/3/2004,384
+The Summons / The Brethren,John Grisham/Michael Beck/Frank  Muller,10/10/2006,0
+Dragonfly in Amber (Outlander  #2),Diana Gabaldon,8/7/2001,743
+Forever Amber,Kathleen Winsor,7/25/2002,972
+Amber Brown Is Green With Envy,Paula Danziger/Tony Ross,8/1/2004,160
+Amber Brown Is Not a Crayon,Paula Danziger/Tony Ross,9/7/2006,96
+Amber and Ashes (Dragonlance: The Dark Disciple  #1),Margaret Weis,7/1/2005,336
+The Waste Lands (The Dark Tower  #3),Stephen King/Ned Dameron,11/12/1992,509
+The Dragon's Eye (Dragonology Chronicles  #1),Dugald A. Steer/Douglas Carrel,11/14/2006,221
+The Dragon's Eye (Erec Rex  #1),Kaza Kingsley/Melvyn Grant,10/1/2006,341
+Dragon's Eye (Stonefort  #1),James A. Hetley,10/31/2006,368
+Dragon's Eye,Christopher Stasheff/William R. Forstchen/Nick DiChario/S.N. Lewitt/Bill Fawcett/Mike Resnick/Mickey Zucker Reichert/S.M. Stirling/Diane Duane/Jody Lynn Nye/Roland J. Green/Teresa Patterson/Judith R. Conly,7/1/1994,279
+"Stand Back  Said the Elephant  ""I'm Going to Sneeze!""",Patricia Thomas/Wallace Tripp,4/23/1990,32
+Here I Stand: A Life of Martin Luther,Roland H. Bainton,4/1/1995,336
+The Stand: Das letzte Gefecht,Stephen King/Joachim Körber,9/1/2003,1227
+'Salem's Lot,Stephen King/Jerry N. Uelsmann,11/1/2005,594
+'Salem's Lot,Stephen King/Ron McLarty,1/19/2004,17
+'Salem's Lot,Stephen King,10/17/1975,405
+Carrie / 'Salem's Lot / The Shining,Stephen King,7/2/2002,1096
+'Salem's Lot,Stephen King,11/13/1979,427
+'Salem's Lot,Stephen King,10/6/2010,586
+Orientalism,Edward W. Said,8/28/2003,396
+Interpreter of Maladies,Jhumpa Lahiri,5/22/2000,198
+The Faiths of the Founding Fathers,David L. Holmes,3/1/2006,225
+Girls in Pants: The Third Summer of the Sisterhood (Sisterhood  #3),Ann Brashares,6/13/2006,338
+Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood  #4),Ann Brashares,1/9/2007,384
+Junie B.  First Grader: Cheater Pants (Junie B. Jones  #21),Barbara Park/Denise Brunkus,4/27/2004,86
+Nineteen Eighty-Four,George Orwell/Thomas Pynchon,5/6/2003,339
+Animal Farm / 1984,George Orwell/Christopher Hitchens,6/1/2003,400
+1984,George Orwell/Erich Fromm,7/1/1981,268
+Nineteen Eighty-Four,George Orwell,7/1/2005,387
+Brave New World / Brave New World Revisited,Aldous Huxley/Christopher Hitchens,7/5/2005,340
+Brave New World and Brave New World Revisited,Aldous Huxley/Christopher Hitchens,6/1/2004,340
+Brave New World Revisited,Aldous Huxley,9/5/2006,123
+Brave New World,Aldous Huxley,10/17/2006,259
+Andrew Carnegie,David Nasaw,10/24/2006,896
+The Cairo Trilogy: Palace Walk / Palace of Desire / Sugar Street (The Cairo Trilogy #1-3),Naguib Mahfouz,10/16/2001,1313
+Children of the Alley,Naguib Mahfouz/Peter Theroux,10/18/1996,464
+Akhenaten: Dweller in Truth,Naguib Mahfouz/Tagreid Abu-Hassabo,4/4/2000,168
+Adrift on the Nile,Naguib Mahfouz/Frances Liardet,1/1/1994,167
+Midaq Alley,Naguib Mahfouz/Trevor Le Gassick,12/1/1991,286
+The Harafish,Naguib Mahfouz/Catherine Cobham/Naguib Mahfouz,9/17/1997,416
+The Day the Leader Was Killed,Naguib Mahfouz/Surgana/Naguib Mahfouz,6/6/2000,112
+Anne Frank Beyond the Diary: A Photographic Remembrance,Ruud van der Rol/Rian Verhoeven/Anna Quindlen/Anne Frank/Tony   Langham/Plym Peters,5/1/1995,113
+Anne Frank Remembered: The Story of the Woman Who Helped to Hide the Frank Family,Miep Gies/Alison Leslie Gold,4/15/1988,252
+The Diary of Anne Frank,Frances Goodrich/Albert Hackett/Wendy Kesselman,10/1/1998,70
+Anne Frank: Life in Hiding,Johanna Hurwitz/Vera Rosenberry,12/8/1999,64
+Cliffs Notes on Hansberry's A Raisin in the Sun,Rosetta James,8/15/1992,80
+Dear John,Nicholas Sparks,10/30/2006,276
+All the King's Men,Robert Penn Warren,9/1/1996,439
+Cliffs notes on Warren's All the King's Men,L. David Allen,1/13/1964,80
+All the King's Men: Three Stage Versions,Robert Penn Warren/James A. Perkins/James A. Grimshaw,7/4/2000,264
+Men's Health: Book of Muscle - The World's Most Complete Guide to Building Your Body,Ian King/Lou Schuler/Frederick Deluvier,10/17/2003,364
+Surely You're Joking  Mr. Feynman!: Adventures of a Curious Character,Richard P. Feynman,4/12/1997,391
+The Feynman Lectures on Physics  3 Vols,Richard P. Feynman/Robert B. Leighton/Matthew L. Sands,1/1/1989,3
+What Do You Care What Other People Think?,Richard P. Feynman,1/11/2001,256
+Perfectly Reasonable Deviations from the Beaten Track: Letters of Richard P. Feynman,Richard P. Feynman/Michelle Feynman,4/5/2005,512
+QED: The Strange Theory of Light and Matter,Richard P. Feynman,10/21/1988,158
+Kiffe Kiffe Demain (French Edition),Faïza Guène,10/1/2005,182
+iWoz,Steve Wozniak/Gina Smith,9/17/2006,313
+Cradle to Cradle: Remaking the Way We Make Things,William McDonough/Michael Braungart,4/22/2002,193
+Cradle and All,James Patterson,2/1/2001,384
+The Creation of the American Republic  1776-1787,Gordon S. Wood,4/6/1998,675
+Power  Faith  and Fantasy: America in the Middle East 1776 to the Present,Michael B. Oren,1/16/2007,832
+Problems of the Self: Philosophical Papers 1956 1972,Bernard Williams,3/25/1976,276
+Moral Luck: Philosophical Papers 1973-1980,Bernard Williams,3/12/1981,188
+Ethics and the Limits of Philosophy,Bernard Williams,3/15/1986,230
+On Rhetoric and Language: Four Key Dialogues,Jean Nienkamp,7/1/1999,232
+The Norton Anthology of Modern and Contemporary Poetry,Jahan Ramazani/Richard Ellmann/Robert O'Clair,4/17/2003,1136
+The Elephant War,Gillian Avery,10/1/2000,256
+The Wind in the Willows,Kenneth Grahame/Gillian Avery,10/27/2005,197
+The Everyman Anthology of Poetry for Children,Gillian Avery/Everyman's Library/Thomas Benwick,9/27/1994,379
+Holiday Romance and Other Writings for Children,Charles Dickens,5/1/1995,368
+Ideas Have Consequences,Richard M. Weaver,9/28/1984,198
+The Ethics of Rhetoric,Richard M. Weaver,11/3/1995,240
+Manliness,Harvey Mansfield,3/11/2006,304
+Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky,12/1/2001,838
+The Brothers Karamazov,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,1/16/1992,796
+Selected Stories of Anton Chekhov,Anton Chekhov/Richard Pevear/Larissa Volokhonsky,10/31/2000,467
+Mother Maria Skobtsova: Essential Writings,Maria Skobtsova/Richard Pevear,10/1/2002,192
+What is Art?,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky,8/31/1995,230
+The Complete Short Novels,Anton Chekhov/Richard Pevear/Larissa Volokhonsky,8/18/2005,548
+The Double and The Gambler,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,1/16/2007,344
+The Adolescent,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,12/7/2004,647
+If I Die in a Combat Zone,Tim O'Brien,4/7/2003,208
+If I Die In A Combat Zone,Tim O'Brien,4/24/1995,208
+Rainbow Six (John Clark  #2; Jack Ryan Universe  #10),Tom Clancy/David Dukes,9/1/1999,912
+Child of War  Woman of Peace,Le Ly Hayslip/James Hayslip/Jenny Wurts,12/1/1993,388
+When Heaven and Earth Changed Places: A Vietnamese Woman's Journey from War to Peace,Le Ly Hayslip/Jay Wurts,11/1/1993,400
+Philip Vera Cruz: A Personal History of Filipino Immigrants and the Farmworkers Movement,Craig Scharlin/Lilia V. Villanueva,6/1/2000,208
+Coming of Age in Mississippi: The Classic Autobiography of a Young Black Girl in the Rural South,Anne Moody,2/3/2004,424
+I'm Too Young To Be Seventy,Judith Viorst/Laura Gibson,10/12/2005,64
+Seventy-Seven Clocks (Bryant & May #3),Christopher Fowler,11/29/2005,496
+The Blank Slate: The Modern Denial of Human Nature,Steven Pinker,8/26/2003,528
+The Language Instinct: How the Mind Creates Language,Steven Pinker,11/7/2000,448
+Learnability and Cognition: The Acquisition of Argument Structure,Steven Pinker/Jacques A. Mehler,8/28/1991,432
+Fight Club,Chuck Palahniuk,10/17/2005,218
+BSD Hacks,Lavigne,5/31/2004,450
+The Design and Implementation of the 4.3BSD UNIX Operating System,Samuel J. Leffler/Marshall Kirk McKusick/Michael J. Karels,6/1/1989,471
+Choke,Stuart Woods,9/12/1996,352
+Choke Point: A Brinker Mystery (Brinker P.I.),James C. Mitchell,10/5/2004,272
+The Aleph and Other Stories,Jorge Luis Borges/Andrew Hurley,7/27/2004,210
+El Aleph,Jorge Luis Borges,9/1/2007,253
+Vanity Fair,William Makepeace Thackeray/John Carey,1/30/2003,867
+Vanity Fair,William Makepeace Thackeray/Nicholas Dames,11/1/2003,696
+Vanity Fair,William Makepeace Thackeray,10/3/1998,672
+V for Vendetta,Alan Moore/David   Lloyd,11/1/2005,296
+V.,Thomas Pynchon/Carlos Martín Ramírez,1/2/2001,640
+Girl in the Shadows (Shadows  #2),V.C. Andrews,3/7/2006,400
+V for Vendetta,Steve Moore/Lilly Wachowski/Lana Wachowski/Alan Moore,3/1/2006,358
+Heaven (Casteel  #1),V.C. Andrews,4/1/1997,464
+Slow Learner: Early Stories,Thomas Pynchon,2/16/1995,208
+A Gravity's Rainbow Companion: Sources and Contexts for Pynchon's Novel,Steven Weisenburger,11/1/2006,424
+Casino Royale,Ian Fleming,6/3/2004,181
+Casino Royale,Anthony Hern/Ian Fleming/Henry Gammidge/John McLusky,6/1/2005,96
+Bel Canto,Ann Patchett,8/2/2005,352
+Guerilla Film Makers Movie Blueprint,Chris          Jones/Jonathan Newman/Cara Williams,6/20/2003,608
+Mini-Manual of the Urban Guerrilla,Carlos Marighella,9/9/2002,66
+The Career Programmer: Guerilla Tactics for an Imperfect World (Expert's Voice),Christopher   Duncan,2/1/2006,264
+A Bend in the River,V.S. Naipaul,5/10/2002,326
+The Middle Passage,V.S. Naipaul,1/8/2002,256
+Magic Seeds,V.S. Naipaul,11/8/2005,280
+Half a Life,V.S. Naipaul,4/23/2009,224
+North of South: An African Journey,Shiva Naipaul,9/26/1996,352
+V.S. Naipaul,Bruce Alvin King,10/10/2003,240
+Regeneration Through Violence: The Mythology of the American Frontier  1600–1860,Richard Slotkin,4/15/2000,670
+Regeneration (Species Imperative  #3),Julie E. Czerneda,5/2/2006,543
+The Regeneration Trilogy (Regeneration  #1-3),Pat Barker,1/1/1996,592
+The Sparrow (The Sparrow  #1),Mary Doria Russell,11/1/1997,506
+The Age of Bronze (Pirates of the Caribbean: Jack Sparrow  #5),Rob Kidd/Walt Disney Company,12/1/2006,144
+The Sword of Cortés (Pirates of the Caribbean: Jack Sparrow  #4),Rob Kidd/Jean-Paul Orpinas/Walt Disney Company,10/1/2006,122
+The Pirate Chase (Pirates of the Caribbean: Jack Sparrow  #3),Rob Kidd/Walt Disney Company,8/1/2006,119
+The Siren Song (Pirates of the Caribbean: Jack Sparrow  #2),Rob Kidd/Jean-Paul Orpinas,6/1/2006,123
+The Coming Storm (Pirates of the Caribbean: Jack Sparrow  #1),Rob Kidd/Jean-Paul Orpinas,6/1/2006,135
+The Woman in White,Wilkie Collins/Matthew Sweet,2/27/2003,672
+The Woman in White,Wilkie Collins,4/15/2005,504
+The Woman in White,Wilkie Collins/Maria K. Bachman/Don Richard Cox,4/20/2006,696
+The Woman in White,Wilkie Collins/Camille Cauti,4/25/2005,635
+The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien,9/16/2002,1200
+The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States,National Commission on Terrorist Attacks Upon The United States,10/17/2004,624
+The Hobbit  or There and Back Again,J.R.R. Tolkien,8/15/2002,366
+The Annotated Hobbit,J.R.R. Tolkien/Douglas A. Anderson,4/7/2003,411
+Poems From The Hobbit,J.R.R. Tolkien,12/13/1999,57
+The Hobbit: Or There and Back Again,J.R.R. Tolkien,9/1/2003,481
+The Hobbit,J.R.R. Tolkien,9/17/2007,277
+Ruthless Rhymes for Heartless Homes and More Ruthless Rhymes,Harry Graham/Frank J. Moore/D. Streamer,6/19/2013,64
+The Essential Neruda: Selected Poems,Pablo Neruda/Mark Eisner/Lawrence Ferlinghetti/Robert Hass/Stephen Mitchell/Alastair Reid/Forrest Gander/Jack Hirschman/Stephen Kessler/John Felstiner,4/1/2004,200
+Twenty Love Poems and a Song of Despair,Pablo Neruda/W.S. Merwin/Cristina García,12/26/2006,70
+Veinte poemas de amor y una canción desesperada; Cien sonetos de amor,Pablo Neruda,1/22/2002,160
+Love,Pablo Neruda,6/16/1995,43
+Anil's Ghost,Michael Ondaatje,4/24/2001,311
+Waiting for My Cats to Die: A Memoir,Stacy Horn,1/17/2002,320
+Narcissus and Goldmund,Hermann Hesse/Leila Vennewitz,6/1/1993,288
+Edward Lear's Book of Nonsense: With Lear's Original Illustrations,Edward Lear/Simcha Shtull,11/1/1995,46
+A Sparrow Falls (Courtney #3),Wilbur Smith,1/2/2007,640
+Providence of a Sparrow: Lessons from a Life Gone to the Birds,Chris Chester,4/13/2004,304
+Sparrow Hawk Red,Ben Mikaelsen,4/1/1995,185
+The Fall of a Sparrow,Robert Hellenga,7/6/1999,464
+The Bluebird and the Sparrow (Women of the West  #10),Janette Oke,8/1/2006,251
+Journey of the Sparrows,Fran Leeper Buss/Daisy Cubias,12/30/2002,160
+Aleutian Sparrow,Karen Hesse/Evon Zerbetz/Kim McGillivray,6/1/2005,160
+An Episode of Sparrows,Rumer Godden,10/31/2004,247
+Li Po and Tu Fu: Poems,Li Bai/Du Fu/Arthur Cooper/Shui Chien-Tung,4/26/1973,256
+混血王子的背叛 (哈利波特  #6),J.K. Rowling/J.K.羅琳/皇冠編譯組/張定綺/彭倩文/趙丕慧/林靜華,10/1/2005,735
+火盃的考驗 (哈利波特  #4),J.K. Rowling/J.K.羅琳/彭倩文,12/8/2001,768
+Five T'ang Poets,Wang Wei/Li Bai/Li Ho/Li Shang-yin/David        Young,10/8/1990,184
+The End of Obscenity: The Trials of Lady Chatterley  Tropic of Cancer  and Fanny Hill,Charles Rembar,12/1/1986,528
+Juniper,Monica Furlong,2/24/2004,198
+The Long Road Back: A Survivor's Guide to Anorexia,Judy Tam Sargent/Sonia Nordenson,10/1/1998,194
+The Road Back,Erich Maria Remarque,12/1/2001,352
+Robinson Crusoe,Daniel Defoe/L.J. Swingle,4/1/2003,312
+Achilles in Vietnam: Combat Trauma and the Undoing of Character,Jonathan Shay,10/1/1995,272
+The Work of Mourning,Jacques Derrida/Pascale-Anne Brault/Michael Naas,9/15/2003,272
+Transform Your Life: A step-by-step programme for change,Diana Cooper,10/29/1998,176
+A Short History of Byzantium,John Julius Norwich,12/29/1998,496
+The Middle Sea: A History of the Mediterranean,John Julius Norwich,10/31/2006,588
+A History of Venice,John Julius Norwich,6/18/1989,673
+The Normans in Sicily: The Normans in the South 1016-1130 and the Kingdom in the Sun 1130-1194,John Julius Norwich,9/1/2004,816
+Siddhartha,Hermann Hesse/Susan Bernofsky/Tom Robbins,7/18/2006,129
+Siddhartha,Hermann Hesse/Joachim Neugroschel/Ralph Freedman,12/31/2002,132
+Siddhartha,Hermann Hesse,10/31/1975,160
+The Moonstone,Wilkie Collins/Carolyn G. Heilbrun,9/11/2001,528
+The Moonstone,Wilkie Collins,10/24/1998,464
+The Moonstone,Wilkie Collins/P.D. James,6/10/1999,576
+Ride of the Second Horseman: The Birth and Death of War,Robert L. O'Connell,10/19/1997,320
+Beloved,Toni Morrison,6/8/2004,324
+Cry  the Beloved Country,Alan Paton,11/25/2003,316
+Life of the Beloved: Spiritual Living in a Secular World,Henri J.M. Nouwen,10/1/2002,160
+Come Away My Beloved,Frances J. Roberts,10/1/2005,192
+Israel  My Beloved,Kay Arthur,3/15/2001,448
+Beloved Bride: The Letters of Stonewall Jackson to His Wife,Bill Potter/Stephen Lang,4/10/2003,156
+The Search for the Beloved: Journeys in Mythology and Sacred Psychology (Inner Workbook),Jean Houston,6/30/1997,272
+Reservation Blues,Sherman Alexie,2/7/2005,306
+The Border Trilogy: All the Pretty Horses  The Crossing  Cities of the Plain,Cormac McCarthy,9/28/1999,1040
+Music & Silence,Rose Tremain,5/1/2001,485
+The Periodic Table,Primo Levi,1/1/2009,194
+Survival in Auschwitz,Primo Levi/Stuart J. Woolf/Philip Roth,9/1/1995,187
+The Reawakening,Primo Levi/Stuart J. Woolf,12/1/1995,230
+The Drowned and the Saved,Primo Levi,2/1/1989,170
+The Monkey's Wrench,Primo Levi/William Weaver/Ruth Feldman/Ruth Tenzer Feldman,7/1/1995,192
+Primo Levi: A Life,Ian Thomson,12/1/2004,640
+Wuthering Heights,Emily Brontë,1/13/2007,279
+Disgrace,J.M. Coetzee,8/30/2005,220
+Waiting for the Barbarians,J.M. Coetzee,10/1/1999,152
+The Lives of Animals,J.M. Coetzee/Amy Gutmann/Peter Singer/Wendy Doniger/Barbara Smuts/Marjorie Garber,5/6/2001,136
+Boyhood: Scenes from Provincial Life,J.M. Coetzee,9/1/1998,166
+Youth,J.M. Coetzee,10/7/2003,176
+Age of Iron,J.M. Coetzee,9/1/1998,198
+The Wife (Kristin Lavransdatter  #2),Sigrid Undset/Tiina Nunnally/Sherrill Harbison,11/1/1999,402
+Kristin Lavransdatter (Kristin Lavransdatter  #1-3),Sigrid Undset/Tiina Nunnally/Brad Leithauser,9/27/2005,1144
+The Axe (The Master of Hestviken  #1),Sigrid Undset/Arthur G. Chater,11/29/1994,304
+The Cross (Kristin Lavransdatter  #3),Sigrid Undset/Tiina Nunnally/Sherrill Harbison,4/1/2000,366
+The Wreath (Kristin Lavransdatter  #1),Sigrid Undset/Tiina Nunnally,12/1/1997,305
+The Mistress of Husaby (Kristin Lavransdatter  #2),Sigrid Undset,5/12/1987,384
+Jenny,Sigrid Undset/Tiina Nunnally,6/1/1998,330
+The Unknown Sigrid Undset: Jenny and Other Works,Sigrid Undset/Tim Page/Tiina Nunnally/Naomi Walford,12/31/2001,406
+Gunnar's Daughter,Sigrid Undset/Sherrill Harbison/Arthur G. Chater,4/1/1998,161
+The Snake Pit (The Master of Hestviken  #2),Sigrid Undset/Arthur G. Chater,11/29/1994,240
+The Son Avenger (The Master of Hestviken  #4),Sigrid Undset,6/24/1995,288
+An Imaginary Life,David Malouf,2/5/1999,156
+The Great World,David Malouf,5/20/1999,336
+A Very Long Engagement,Sébastien Japrisot,1/6/2005,320
+Birdsong,Sebastian Faulks,6/2/1997,483
+The Collected Poems of Wilfred Owen,Wilfred Owen/Cecil Day-Lewis,1/17/1965,192
+Murder in Foggy Bottom (Capital Crimes  #17),Margaret Truman,1/29/2002,368
+The Road,Cormac McCarthy,9/26/2006,241
+The Road to Serfdom,Friedrich A. Hayek,3/9/2006,272
+Road of the Patriarch (Forgotten Realms: The Sellswords  #3),R.A. Salvatore,12/20/2006,346
+Road Trip USA: Cross-Country Adventures on America's Two-Lane Highways,Jamie Jensen,3/31/2006,964
+Howl's Moving Castle (Howl's Moving Castle  #1),Diana Wynne Jones,8/1/2001,329
+Howl and Other Poems,Allen Ginsberg/William Carlos Williams,1/1/2001,56
+When Rabbit Howls,Truddi Chase/Robert A. Phillips,2/5/2002,400
+The Art of Howl's Moving Castle,Hayao Miyazaki/Yuji Oniki/Joe Hisaishi,7/1/2005,256
+Howl: Original Draft Facsimile  Transcript & Variant Versions  Fully Annotated by Author  with Contemporaneous Correspondence,Allen Ginsberg/Barry Miles,10/10/2006,208
+The Best of America's Test Kitchen 2007: The Year's Best Recipes  Equipment Reviews  and Tastings,America's Test Kitchen,9/1/2006,312
+Charlie and the Chocolate Factory (Charlie Bucket  #1),Roald Dahl/Quentin Blake,6/2/2005,176
+Charlie and the Chocolate Factory: A Play,Richard R. George/Roald Dahl,9/27/1979,89
+Charlie and the Chocolate Factory (Abridged),Roald Dahl,6/2/2005,40
+Collected Stories,Roald Dahl/Jeremy Treglown,10/17/2006,850
+Roald Dahl Treasury,Roald Dahl,9/15/2003,448
+Dirty Beasts,Roald Dahl/Quentin Blake,10/14/2002,32
+Never Let Me Go,Kazuo Ishiguro,8/31/2010,288
+Never Let Me Go,Kazuo Ishiguro,1/31/2006,288
+Never Let Me Go,Kazuo Ishiguro/Rosalyn Landor,4/12/2005,10
+Homeric Moments: Clues to Delight in Reading the Odyssey and the Iliad,Eva Brann,9/1/2002,326
+Paradoxes of Education in a Republic,Eva Brann,8/15/1989,178
+The Music of the Republic: Essays on Socrates' Conversations and Plato's Writings,Eva Brann,3/1/2004,378
+Open Secrets / Inward Prospects: Reflections on World and Soul,Eva Brann,10/1/2004,435
+Phaedo,Plato/Eva Brann/Peter Kalkavage/Eric Salem,9/1/1998,118
+Rocky Stories: Tales of Love  Hope  and Happiness at America's Most Famous Steps,Michael Vitez/Tom Gralish/Sylvester Stallone,11/1/2006,144
+My Heart May Be Broken  but My Hair Still Looks Great (Domestic Equalizers #2),Dixie Cash,8/29/2006,336
+Since You're Leaving Anyway  Take Out the Trash (Domestic Equalizers #1),Dixie Cash,8/31/2004,384
+The Da Vinci Code (Robert Langdon  #2),Dan Brown,3/18/2003,522
+Blessings from the Other Side: Wisdom and Comfort from the Afterlife for This Life,Sylvia Browne/Lindsay Harrison,10/1/2002,208
+Mother God: The Feminine Principle to Our Creator,Sylvia Browne,2/1/2004,128
+Thanksgiving,Janet Evanovich,10/31/2006,228
+Plum Lovin' (Stephanie Plum  #12.5),Janet Evanovich,1/9/2007,164
+Four to Score (Stephanie Plum  #4),Janet Evanovich,6/15/1999,313
+Seven Up (Stephanie Plum  #7),Janet Evanovich,6/17/2002,337
+Hard Eight (Stephanie Plum  #8),Janet Evanovich/Lorelei King,6/16/2003,326
+Motor Mouth (Alex Barnaby #2),Janet Evanovich,10/3/2006,312
+A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments,David Foster Wallace,2/1/1997,353
+Ivanhoe,Walter Scott/Graham Tulloch,3/30/2000,541
+Ivanhoe,Marianna Mayer/Walter Scott/John Rush,10/7/2004,56
+Me and Jezebel: When Bette Davis Came for Dinner -- And Stayed ... And Stayed ... And Stayed ... And ...,Elizabeth L. Fuller,5/1/1992,244
+George Washington and Benedict Arnold: A Tale of Two Patriots,Dave R. Palmer,8/1/2006,424
+His Excellency: George Washington,Joseph J. Ellis,11/8/2005,320
+George Washington's Rules of Civility & Decent Behavior in Company and Conversation (Little Books of Wisdom),George Washington,8/1/1989,30
+George Washington's Sacred Fire,Peter A. Lillback/Jerry Newcombe,5/31/2011,1200
+Waverley,Walter Scott/Claire Lamont,8/20/1998,463
+The Antiquary,Walter Scott/Nicola J. Watson,5/23/2002,528
+Rob Roy,Walter Scott/Lockhart Bogle,7/9/2002,576
+Prozac Nation,Elizabeth Wurtzel,4/2/2002,384
+Girl  Interrupted: Screenplay based on the book,James Mangold/Anna Hamilton Phelan/Lisa Loomer/Susanna Kaysen,2/21/2000,167
+How to Write a Damn Good Novel: A Step-by-Step No Nonsense Guide to Dramatic Storytelling,James N. Frey,12/15/1987,192
+Book of the Dead (Kay Scarpetta  #15),Patricia Cornwell,11/1/2007,511
+At Risk (Winston Garano  #1),Patricia Cornwell,5/23/2006,212
+Predator (Kay Scarpetta  #14),Patricia Cornwell,10/1/2006,453
+Trace (Kay Scarpetta  #13),Patricia Cornwell,6/28/2005,401
+Postmortem (Kay Scarpetta  #1),Patricia Daniels Cornwell/Patricia Cornwell,12/30/2003,342
+Three Complete Novels: Postmortem / Body Of Evidence / All That Remains (Kay Scarpetta  #1  #2  #3),Patricia Cornwell,10/1/1997,822
+From Potter's Field (Kay Scarpetta  #6),Patricia Cornwell,8/30/2005,383
+The Body Farm (Kay Scarpetta  #5),Patricia Cornwell,12/28/2004,351
+Trace (Kay Scarpetta  #13),Patricia Cornwell/Carolyn McCormick,8/4/2005,11
+Cause of Death (Kay Scarpetta  #7),Patricia Cornwell/C.J. Critt,1/2/2007,356
+The Patricia Cornwell CD Audio Treasury: All That Remains / Cruel & Unusual (Kay Scarpetta  #3  #4),Patricia Cornwell/Kate Burton,7/26/2005,0
+At Risk (Winston Garano  #1),Patricia Cornwell,4/3/2007,289
+The Scarpetta Collection: All That Remains / Cruel & Unusual (Kay Scarpetta  #3  #4),Patricia Cornwell,11/11/2003,672
+In the Dark of the Night,John Saul,7/18/2006,324
+Perfect Nightmare,John Saul,4/25/2006,384
+  said the shotgun to the head.,Saul Williams,9/1/2003,192
+Early Color,Saul Leiter/Martin Harrison,1/15/2006,156
+Herzog,Saul Bellow/Philip Roth,2/25/2003,371
+Midnight Voices,John Saul/Joe Blades,3/4/2003,384
+The Manhattan Hunt Club,John Saul,3/28/2006,384
+Shadows,John Saul,5/1/1993,393
+The Presence,John Saul,4/29/1998,432
+Creature,John Saul,1/1/1997,416
+Asylum (Blackstone Chronicles  #6),John Saul,6/3/1997,97
+Suffer the Children,John Saul,7/1/1989,378
+The Big Bad Wolf  (Alex Cross  #9),James Patterson/مریم کاظمی‌تبار,10/1/2004,400
+Big Bad Wolf,Linda Jones,2/27/1997,359
+Why Do Men Fall Asleep After Sex? More Questions You'd Only Ask a Doctor After Your Third Whiskey Sour,Mark Leyner/Billy Goldberg,8/1/2006,263
+Four Blondes,Candace Bushnell,6/8/2001,256
+Lipstick Jungle,Candace Bushnell,8/8/2006,496
+Lipstick Jungle,Candace Bushnell,4/1/2007,532
+The Easy Way to Stop Smoking: Join the Millions Who Have Become Nonsmokers Using the Easyway Method,Allen Carr,9/23/2004,224
+Teach Your Child to Read in 100 Easy Lessons,Siegfried Engelmann/Phyllis Haddox/Elaine Bruner,6/15/1986,395
+It's Not Easy Being Green: And Other Things to Consider,Jim Henson/Cheryl Henson,9/14/2005,197
+Playing Easy to Get (B.A.D. Agency #1.5; Vikings Underground #3; Immortals After Dark #1),Sherrilyn Kenyon/Jaid Black/Kresley Cole,2/7/2006,352
+The Big Over Easy (Nursery Crime  #1),Jasper Fforde,7/25/2006,383
+The Enneagram Made Easy: Discover the 9 Types of People,Renee Baron/Elizabeth Wagele,3/11/1994,161
+It's Easy Being Green: A Handbook for Earth-Friendly Living,Crissy Trask/Mike Clelland,1/23/2006,168
+Le Divorce,Diane Johnson,7/1/2003,320
+Divine Conspiracy: Rediscovering Our Hidden Life in God,Dallas Willard,10/5/1998,384
+The Divine Comedy,Dante Alighieri/John Ciardi,5/27/2003,895
+The Divine Comedy,Dante Alighieri/Allen Mandelbaum/Eugenio Montale,8/1/1995,798
+Divine,Karen Kingsbury,5/17/2007,355
+When the Emperor Was Divine,Julie Otsuka,1/12/2004,160
+Complete Divine (Dungeons & Dragons Edition 3.5),David Noonan,5/1/2004,191
+A Divine Revelation of Hell,Mary K. Baxter/T.L. Lowery,1/1/1993,208
+Boy: Tales of Childhood (Roald Dahl's Autobiography  #1),Roald Dahl/Quentin Blake,4/5/2001,176
+The Enormous Crocodile,Roald Dahl/Quentin Blake,3/24/2003,32
+The Magic Finger,Roald Dahl/Quentin Blake,4/5/2001,67
+The Wonderful Story of Henry Sugar and Six More,Roald Dahl,9/11/2001,240
+The Gremlins,Roald Dahl/Artists and Writers Guild/Walt Disney Company/Leonard Maltin,9/26/2006,56
+Going Solo (Roald Dahl's Autobiography  #2),Roald Dahl/Quentin Blake,4/5/2001,209
+Gumbo Ya-Ya: A Collection of Louisiana Folk Tales,Lyle Saxon/Edward Dreyer/Robert Tallant,5/31/1987,640
+James and the Giant Peach,Roald Dahl/Quentin Blake,9/10/2002,146
+Danny the Champion of the World,Roald Dahl/Quentin Blake,2/12/2002,224
+My Uncle Oswald,Roald Dahl,5/1/1986,208
+Fantastic Mr. Fox,Roald Dahl/Quentin Blake,6/11/2002,96
+The Giraffe and the Pelly and Me,Roald Dahl/Quentin Blake,11/29/2001,32
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,8/19/2004,229
+Wild Things: Four Tales,Douglas Clegg,10/1/2006,97
+Wild Things (Prowlers Book 1),Christopher Golden,4/7/2003,311
+A Supposedly Fun Thing I'll Never Do Again:  Essays and Arguments,David Foster Wallace,2/2/1998,353
+Oblivion,David Foster Wallace,8/30/2005,329
+Consider the Lobster and Other Essays,David Foster Wallace,12/13/2005,343
+Brief Interviews with Hideous Men,David Foster Wallace,4/1/2000,273
+Diabetes Meal Planning Made Easy,Hope S. Warshaw/Warshaw Hope,10/15/2006,301
+Easy French Reader,R. de Roussy de Sales,9/17/2003,228
+Algebra the Easy Way,Douglas Downing,1/1/2003,392
+Easy Riders  Raging Bulls,Peter Biskind,4/4/1999,512
+Cloud Atlas,David Mitchell,2/21/2005,529
+The Cloud Atlas,Liam Callanan,8/1/2004,368
+Easy Labor: Every Woman's Guide to Choosing Less Pain and More Joy During Childbirth,William Camann/Kathryn    Alexander,1/31/2006,311
+The McDougall Quick and Easy Cookbook,John A. McDougall/Mary McDougall,4/1/1999,336
+American Sign Language The Easy Way,David A. Stewart/Jessalyn Little/Elizabeth     Stewart,11/1/2006,480
+Ghostwritten,David Mitchell,10/9/2001,426
+Romeo & Juliet,William Shakespeare/Alan Durband,1/1/1993,288
+Easy Prey (Lucas Davenport  #11),John Sandford,6/1/2004,480
+Mayada  Daughter of Iraq: One Woman's Survival Under Saddam Hussein,Jean Sasson,9/7/2004,368
+Three to Get Deadly (Stephanie Plum  #3),Janet Evanovich,7/15/1998,321
+Smitten (Elsie Hawkins #2),Janet Evanovich,7/25/2006,234
+Manhunt,Janet Evanovich,11/29/2005,219
+Three Plums In One (Stephanie Plum  #1-3),Janet Evanovich,4/26/2001,1016
+Hot Six (Stephanie Plum  #6),Janet Evanovich,6/15/2001,336
+Amsterdam,Ian McEwan,11/2/1999,208
+Fodor's Amsterdam (Fodor's Gold Guides),Fodor's Travel Publications Inc./Sarah Gold,4/6/2004,288
+The Child in Time,Ian McEwan,11/2/1999,263
+Enduring Love,Ian McEwan,10/28/2004,245
+Black Dogs,Ian McEwan,12/29/1998,149
+The Comfort of Strangers,Ian McEwan,11/1/1994,128
+And the Envelope  Please...: Ever After / An Affair To Remember / It Happened One Night,Barbara Bretton/Emilie Rose/Isabel Sharpe,2/7/2006,279
+Las rubias de 5th Avenue,Plum Sykes,2/28/2005,304
+Tuesdays with Morrie,Mitch Albom,6/29/2007,192
+La Dernière Leçon,Mitch Albom,1/1/2001,209
+My Sister's Keeper,Mavis Applewater,3/9/2004,252
+My Sister's Keeper (Gillian Adams  #2),Nora Kelly,2/1/2000,228
+Their Sisters' Keepers: Women's Prison Reform in America  1830-1930,Estelle B. Freedman,4/4/1984,272
+Baby's Alphabet,Jean Marzollo/Nancy Sheehan,8/1/2002,32
+Welcome to the Monkey House,Kurt Vonnegut Jr./David Strathairn/Maria Tucci/Bill Irwin/Tony    Roberts/Dylan Baker,5/23/2006,9
+What Color Is Your Parachute? A Practical Manual for Job-Hunters and Career-Changers,Richard Nelson Bolles,9/1/2006,382
+You Can Have What You Want: Proven Strategies for Inner and Outer Success,Michael Neill,10/15/2006,240
+Like Water for Chocolate,Laura Esquivel/Thomas  Christensen/Carol Christensen,9/16/1993,222
+Like Water for Chocolate,Laura Esquivel/Yareli Arizmendi,5/2/2006,0
+Como agua para chocolate,Laura Esquivel,6/1/1994,248
+The Radicalism of the American Revolution,Gordon S. Wood,3/2/1993,447
+Emma,Jane Austen/Fiona Stafford,5/6/2003,474
+Prince of Ice (Tale of the Demon World  #3),Emma Holly,11/7/2006,294
+Emma Lazarus,Esther Schor,9/5/2006,368
+Strange Attractions,Emma Holly,11/1/2005,312
+The Mermaid Chair,Sue Monk Kidd,3/7/2006,368
+The Dance of the Dissident Daughter: A Woman's Journey from Christian Tradition to the Sacred Feminine,Sue Monk Kidd,12/26/1996,253
+When the Heart Waits: Spiritual Direction for Life's Sacred Questions,Sue Monk Kidd,10/11/2016,240
+With Open Hands,Henri J.M. Nouwen/Sue Monk Kidd,4/1/2006,125
+Saxons  Vikings  and Celts: The Genetic Roots of Britain and Ireland,Bryan Sykes,12/17/2006,320
+Yeah  I Said It,Wanda Sykes,9/13/2005,247
+The Seven Daughters Of Eve,Bryan Sykes,7/1/2002,368
+Dumbing Down Our Kids: Why American Children Feel Good About Themselves But Can't Read  Write or Add,Charles J. Sykes,9/15/1996,352
+If I Don't Write It Nobody Else Will: An Autobiography,Eric Sykes,5/1/2006,512
+Hamlet,William Shakespeare,7/3/2003,352
+William Shakespeare's A Midsummer Night's Dream (Cliffs Complete),CliffsNotes/Michael McMahon,4/29/2001,192
+A Midsummer Night's Dream,William Shakespeare,5/1/1998,162
+A Midsummer Night's Dream,William Shakespeare/Amanda Root/Arkangel Cast/Roy Hudd/David Harewood,5/3/2005,3
+A Midsummer Night's Dream,William Shakespeare/Roma Gill/B. Litt,7/28/2005,102
+A Midsummer Night's Dream,William Shakespeare/Roma Gill,8/15/2002,99
+The Burning (Guardians of Ga'Hoole  #6),Kathryn Lasky/Richard Cowdrey,11/1/2004,224
+The Siege (Guardians of Ga'Hoole  #4),Kathryn Lasky,5/1/2004,203
+In the Company of Cheerful Ladies (No. 1 Ladies' Detective Agency  #6),Alexander McCall Smith,3/14/2006,256
+Morality for Beautiful Girls (No. 1 Ladies' Detective Agency #3),Alexander McCall Smith,11/12/2002,227
+In the Company of Cheerful Ladies (No. 1 Ladies' Detective Agency  #6),Alexander McCall Smith/Lisette Lecat,3/2/2005,10
+The Full Cupboard of Life (No. 1 Ladies' Detective Agency  #5),Alexander McCall Smith,4/20/2004,198
+The Tale of Genji,Murasaki Shikibu/Edward G. Seidensticker,7/12/1978,1090
+The Tale of Genji,Yoshitaka Amano/Murasaki Shikibu/Rachel Nacth/Anri Itō/Junichi Imura,8/8/2006,81
+The Tale of Genji: Scenes from the World's First Novel (Illustrated Japanese Classics),Murasaki Shikibu/Masayuki Miyata/Jakuchō Seitouchi/Donald Keene/H. Mack Horton/Ayako Watanabe/Michiko Hiraoka,10/26/2001,238
+Blue Shoes and Happiness (No. 1 Ladies' Detective Agency  #7),Alexander McCall Smith,4/18/2006,227
+In the Company of Cheerful Ladies (No. 1 Ladies' Detective Agency #6),Alexander McCall Smith,4/19/2005,233
+Ein Gentleman für Mma Ramotswe (No. 1 Ladies' Detective Agency  #2),Alexander McCall Smith,2/1/2002,238
+Ein Koch für Mma Ramotswe (No. 1 Ladies' Detective Agency  #3),Alexander McCall Smith,2/1/2003,240
+The Good Husband of Zebra Drive (No. 1 Ladies' Detective Agency #8),Alexander McCall Smith,4/17/2007,213
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Alexander McCall Smith,2/6/2003,235
+Paris to the Moon,Adam Gopnik,9/11/2001,368
+The Belly of Paris (Les Rougon-Macquart  #3),Émile Zola/Ernest Alfred Vizetelly/Henry Vizetelly,12/1/1995,397
+My Movie Business: A Memoir,John Irving,10/10/2000,222
+Setting Free the Bears / The Water-Method Man / The 158-Pound Marriage,John Irving,5/21/1995,718
+The Headmaster's Papers,Richard A. Hawley/John Irving,9/1/2002,240
+Blade Runner,Philip K. Dick,7/12/1987,216
+The Android (Animorphs  #10),K.A. Applegate/Katherine Applegate,9/1/1997,170
+The Soul of a New Machine,Tracy Kidder,6/1/2000,293
+No Better Place to Die: The Battle Of Stones River,Peter Cozzens,7/1/1991,282
+Never Call Retreat,Bruce Catton/E.B. Long,12/31/2001,558
+The 42nd Parallel (U.S.A.  #1),John Dos Passos,5/25/2000,326
+U.S.A.: 42e Parallèle/L'An premier du siècle/La Grosse galette,John Dos Passos,9/4/2002,1344
+The Big Money (U.S.A.  #3),John Dos Passos/E.L. Doctorow,5/25/2000,464
+1919 (U.S.A.  #2),John Dos Passos/E.L. Doctorow,5/25/2000,400
+The King in the Window,Adam Gopnik/Omar Rayyan,10/15/2006,410
+The Karamazov Brothers,Fyodor Dostoyevsky/Ignat Avsey,8/20/1998,1054
+The Grand Inquisitor: with related chapters from The Brothers Karamazov,Fyodor Dostoyevsky/Constance Garnett/Charles Guignon,10/1/1993,128
+The Count of Monte Cristo,Alexandre Dumas/Robin Buss,5/27/2003,1276
+The Count of Monte Cristo,Alexandre Dumas/Brantley Johnson/Margaret Brantley,5/1/2004,620
+The Count of Monte Cristo,Alexandre Dumas/Lorenzo Carcaterra,6/11/2002,1462
+The Brothers Karamazov,Fyodor Dostoyevsky/Andrew R. MacAndrew/Konstantin Mochulsky,4/1/1984,1072
+Crime and Punishment,Fyodor Dostoyevsky/Leonard Stanton/James D. Hardy Jr./Sidney Monas/Robin Feuer Miller,3/7/2006,560
+Crime and Punishment in American History,Lawrence M. Friedman,9/9/1994,590
+Crime and Punishment in America,Elliott Currie,10/15/1998,240
+Cliffsnotes on Dostoevsky's Crime and Punishment,James Lamar Roberts/Fyodor Dostoyevsky/CliffsNotes,11/7/2000,128
+On Crimes and Punishments,Cesare Beccaria/David Young,11/1/1986,129
+Crime and Punishment,Fyodor Dostoyevsky/David McDuff,12/31/2002,671
+Crime and Punishment (Norton Critical Editions),Fyodor Dostoyevsky/George Gibian/Jessie Coulson,4/1/1964,690
+The Politics of Injustice: Crime and Punishment in America,Katherine Beckett/Theodore Sasson,10/16/2003,272
+The Beginning and the End,Naguib Mahfouz,9/20/1989,412
